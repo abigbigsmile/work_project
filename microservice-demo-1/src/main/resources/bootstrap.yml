@@ -1,0 +1,55 @@
+# 命名为bootstrap是先启动配置客户端获取配置
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
+
+spring:
+  application:
+    name: ask
+  cloud:
+    config:
+      discovery:
+        enabled: true # 配置中心客户端
+        service-id: config-service #配置中心服务名
+      profile: test
+    stream:
+      bindings:
+        #指定通道名
+        inputChanel:
+          #指定通道对应的主题名（topic/exchanges)
+          destination: myStream
+          #指定应用实例属于的消费组, 避免重复消费，而且还能持久化队列
+          group: stream
+          #配置传输类型
+          #content-type: application/json
+        outputChanel:
+          destination: myStream
+  #配置zipkin的访问地址
+  zipkin:
+    base-url: http://localhost:9411/
+  #配置zipkin追踪的服务的抽样百分比
+  sleuth:
+    sampler:
+      probability: 1
+
+#设置服务调用的超时时间
+hystrix:
+  command:
+    default:
+      execution:
+        isolation:
+          thread:
+            timeoutInMilliseconds: 3000
+
+#暴露接口
+management:
+  endpoints:
+    web:
+      exposure:
+        include: hystrix.stream # 或者'*'
+
+#配置日志级别(指定包）
+logging:
+  level:
+    com.springcloud.microservicedemo1.controller: debug

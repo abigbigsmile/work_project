@@ -1,0 +1,26 @@
+spring:
+  application:
+    name: config-service
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/abigbigsmile/springcloud-config-reop.git
+          username: smile06280629@yeah.net
+          password: github980013084
+          basedir: D:\IDEAWorkspace\config-service\src\main\java\com\springcloud\configservice\config\
+          force-pull: true
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
+
+#暴露Spring Cloud Bus提供的自动刷新接口/bus_reflesh
+#暴露/actuator/bus-refresh接口
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+

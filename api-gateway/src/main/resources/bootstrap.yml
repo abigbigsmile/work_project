@@ -1,0 +1,28 @@
+spring:
+  application:
+    name: api-gateway
+  cloud:
+    config:
+      discovery:
+        enabled: true
+        service-id: config-service
+      profile: test
+#注册服务到eureka
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
+zuul:
+  routes:
+    #使用自定义的路径访问ask服务, /serviceZuul/testZuul --> /ask/testZuul
+#    myZuulName:
+#      path: /serviceZuul/**
+#      serviceId: ask
+#       sensitive-headers:
+    #上面的简洁写法
+    ask: /serviceZuul/**
+  #配置禁止某些请求路径, 可以使用某些通配符
+  ignored-patterns:
+    - /serviceZuul/testIgnore
+  #设置敏感头，配置使得能够接收到请求携带的cookie；可以使用zuul.sensitive-headers:设置全局敏感头
+  sensitive-headers:

@@ -1,0 +1,11 @@
+father: chuang
+mother:
+  son: huang's son
+
+#配置actuator监控所有接口
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+

@@ -1,0 +1,18 @@
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
+    register-with-eureka: false #不向注册中心注册自己
+    fetch-registry: false #不需要注册中心检索自己
+  server:
+    enable-self-preservation: false
+
+# 实现Eureka的高可用，启动多个Eureka服务注册中心，并且互相注册
+#defaultZone: http://localhost:8761/eureka/, http://localhost:8762/eureka/
+spring:
+  application:
+    name: eureka-server
+
+
+server:
+  port: 8761
