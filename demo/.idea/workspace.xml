@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="572a430e-a2c0-4240-8d4d-7b83ae7b5639" name="Default Changelist" comment="" />
+    <list default="true" id="572a430e-a2c0-4240-8d4d-7b83ae7b5639" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/AddTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/LongestSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/MedianOfTwoSortedArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/smile/sort/Quick.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smile/sort/Quick.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/sort/Quick.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/smile/sort/Quick.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_theory" beforeDir="false" afterPath="$PROJECT_DIR$/../java_theory" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springsecurity_demo" beforeDir="false" afterPath="$PROJECT_DIR$/../springsecurity_demo" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,13 +27,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/sort/Quick.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/MedianOfTwoSortedArrays.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="141">
-              <caret line="53" column="9" lean-forward="true" selection-start-line="53" selection-start-column="9" selection-end-line="53" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="108">
+              <caret line="22" column="30" lean-forward="true" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -46,6 +54,9 @@
       <replace>countArray</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -59,7 +70,13 @@
         <option value="$PROJECT_DIR$/src/main/java/com/smile/sort/Shell.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/smile/sort/Merge.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/smile/sort/Heap.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/smile/leetcode.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/smile/sort/Quick.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm/AddTwoNumbers.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm/LongestSubstring.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm/MedianOfTwoSortedArrays.java" />
       </list>
     </option>
   </component>
@@ -76,11 +93,11 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="41" />
-    <option name="y" value="92" />
-    <option name="width" value="974" />
-    <option name="height" value="788" />
+    <option name="x" value="-7" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -128,7 +145,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="smile" type="462c0819:PsiDirectoryNode" />
-              <item name="sort" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -137,6 +154,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../java_theory" />
@@ -145,6 +163,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -158,13 +177,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Quick">
-    <configuration name="Heap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.smile.sort.Heap" />
+  <component name="RunManager" selected="Application.MedianOfTwoSortedArrays">
+    <configuration name="AddTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.smile.algorithm.AddTwoNumbers" />
       <module name="demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.smile.sort.*" />
+          <option name="PATTERN" value="com.smile.algorithm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,12 +191,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Insertion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.smile.sort.Insertion" />
+    <configuration name="LongestSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.smile.algorithm.LongestSubstring" />
       <module name="demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.smile.sort.*" />
+          <option name="PATTERN" value="com.smile.algorithm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -185,12 +204,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Merge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.smile.sort.Merge" />
+    <configuration name="MedianOfTwoSortedArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.smile.algorithm.MedianOfTwoSortedArrays" />
       <module name="demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.smile.sort.*" />
+          <option name="PATTERN" value="com.smile.algorithm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -211,12 +230,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Shell" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.smile.sort.Shell" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.smile.algorithm.Test" />
       <module name="demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.smile.sort.*" />
+          <option name="PATTERN" value="com.smile.algorithm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -226,11 +245,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MedianOfTwoSortedArrays" />
+        <item itemvalue="Application.LongestSubstring" />
+        <item itemvalue="Application.AddTwoNumbers" />
         <item itemvalue="Application.Quick" />
-        <item itemvalue="Application.Heap" />
-        <item itemvalue="Application.Merge" />
-        <item itemvalue="Application.Shell" />
-        <item itemvalue="Application.Insertion" />
+        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -247,18 +266,23 @@
       <workItem from="1567306726443" duration="18924000" />
       <workItem from="1567383887044" duration="18400000" />
       <workItem from="1567438825593" duration="1076000" />
-      <workItem from="1567473087500" duration="5084000" />
+      <workItem from="1567473087500" duration="5918000" />
+      <workItem from="1567496813573" duration="2551000" />
+      <workItem from="1567592388133" duration="1096000" />
+      <workItem from="1567608825946" duration="3206000" />
+      <workItem from="1567644953279" duration="10594000" />
+      <workItem from="1567736004173" duration="953000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43484000" />
+    <option name="totallyTimeSpent" value="62718000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17019667" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18154311" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -268,8 +292,8 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2749591" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.16530278" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21311475" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3852459" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -310,18 +334,15 @@
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/smile/sort/Quick.java</url>
-          <line>49</line>
+          <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/LongestSubstring.java</url>
+          <line>46</line>
           <properties />
-          <option name="timeStamp" value="6" />
+          <option name="timeStamp" value="21" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/search/BinarySearch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="395">
@@ -387,16 +408,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/sort/Merge.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="688">
-          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/sort/Bubble.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
@@ -407,13 +418,69 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/leetcode.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/sort/Quick.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="141">
-          <caret line="53" column="9" lean-forward="true" selection-start-line="53" selection-start-column="9" selection-end-line="53" selection-end-column="9" />
+          <caret line="59" column="17" selection-start-line="59" selection-start-column="17" selection-end-line="59" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/sort/Merge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/LongestSubstring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#377#397#0" expanded="true" />
+            <element signature="e#1333#1344#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/AddTwoNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+          <folding>
+            <element signature="method#addTwoNumbers#0;class#AddTwoNumbers#0" />
+            <element signature="e#1403#1404#0" expanded="true" />
+            <element signature="e#1426#1427#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/MedianOfTwoSortedArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="22" column="30" lean-forward="true" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
         </state>
       </provider>
     </entry>

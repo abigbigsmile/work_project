@@ -57,11 +57,31 @@ public class Quick {
         quick_three_way(arr, pos, right);
     }
 
+    //使用快排找出第k大的值
+    public static int findKthLargest(int[] nums, int k) {
+        int left = 0;
+        int right = nums.length-1;
+        while(left<right){
+            int pivot = partition_double_pointer(nums, left, right);
+            if(pivot+k==nums.length) return nums[pivot];
+            else if(pivot+k < nums.length) left = pivot+1;
+            else right = pivot-1;
+        }
+        return nums[left];
+    }
+
+
+
+
+
+
     public static void main(String[] args) {
         int[] arr = {0,9,-1,6,7,3,5,12,46,23,16,38,48,97,54,34,89,-5};
         print(arr);
         //quick(arr, 0, arr.length-1);
-        quick_three_way(arr, 0, arr.length-1);
-        print(arr);
+        //quick_three_way(arr, 0, arr.length-1);
+        int val = findKthLargest(arr, 2);
+        System.out.println("val :" + val);
+        //print(arr);
     }
 }
