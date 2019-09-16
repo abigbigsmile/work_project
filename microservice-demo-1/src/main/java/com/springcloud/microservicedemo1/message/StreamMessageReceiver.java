@@ -16,14 +16,14 @@ import java.util.Date;
 @EnableBinding(value = {StreamClient.class})
 public class StreamMessageReceiver {
 
-    /*@StreamListener(value = StreamClient.INPUT)
+    @StreamListener(value = StreamClient.INPUT)
     public void receive(Object message){
         log.info("message received : {}", message);
-    }*/
+    }
 
 
  /*   @StreamListener(value = StreamClient.INPUT)
-    @SendTo(value = StreamClient.OUTPUT2)
+    @SendTo(value = StreamClient.OUTPUT2)//这个注解可以实现消息的回送
     public String receiveCat(Cat message){
         log.info("message received : {}", message);
         return "I'm sending a response .";

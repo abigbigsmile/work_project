@@ -1,0 +1,8 @@
+com\springcloud\server\controller\ServerController.class
+com\springcloud\server\config\SessionFactoryConfig.class
+com\springcloud\server\service\ProductService.class
+com\springcloud\server\mapper\ProductMapper.class
+com\springcloud\server\config\DataSourceConfig.class
+com\springcloud\server\service\impl\ProductServiceImpl.class
+com\springcloud\server\model\Product.class
+com\springcloud\server\MicroserviceDemo2Application.class

@@ -21,7 +21,7 @@ spring:
           destination: myStream
           #指定应用实例属于的消费组, 避免重复消费，而且还能持久化队列
           group: stream
-          #配置传输类型
+          #配置传输类型，这里有个好处：当消息类型时java对象时，在rabbitmq可视化界面观察是经过base加密的，设置content-type可以显示出来
           #content-type: application/json
         outputChanel:
           destination: myStream

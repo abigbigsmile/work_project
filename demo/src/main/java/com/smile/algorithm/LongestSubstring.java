@@ -12,6 +12,7 @@ public class LongestSubstring {
         System.out.println(lengthOfLongestSubstring("longestubstringithoutrepeatingcharacters"));
         System.out.println(lengthOfLongestSubstring_x("longestubstringithoutrepeatingcharacters"));
         System.out.println(lengthOfLongestSubstring_xx("longestubstringithoutrepeatingcharacters"));
+        System.out.println(lengthOfLongestSubstring_xxx("longestubstringithoutrepeatingcharacters"));
     }
 
 
@@ -55,5 +56,23 @@ public class LongestSubstring {
         }
         return res;
     }
+
+    //理解：滑动窗口
+    public static int lengthOfLongestSubstring_xxx(String s) {
+        int[] arr = new int[256];//用于记录字符是否重复，查找是效率为O(1)
+        int left = 0, pos = -1; //[left, pos]表示窗口大小
+        int res = 0;
+        while(left < s.length()){
+            if(pos+1<s.length() && arr[s.charAt(pos+1)] == 0){//没有重复，窗口有边界扩大
+                arr[s.charAt(++pos)]++;
+            }else{//出现重复
+                arr[s.charAt(left++)]--;
+            }
+            res = Math.max(res, pos-left+1);
+        }
+        return res;
+    }
+
+
 
 }

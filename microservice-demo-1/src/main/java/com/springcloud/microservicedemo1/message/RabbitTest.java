@@ -13,7 +13,7 @@ import org.springframework.stereotype.Component;
 public class RabbitTest {
 
     //@RabbitListener(queues = "testQueue")//需要手动声明队列
-    //@RabbitListener(queuesToDeclare = @Queue("testQueue")) //自动声明对垒
+    //@RabbitListener(queuesToDeclare = @Queue("testQueue")) //自动声明队列
 
     @RabbitListener(bindings = @QueueBinding(
             value = @Queue("testQueue"),

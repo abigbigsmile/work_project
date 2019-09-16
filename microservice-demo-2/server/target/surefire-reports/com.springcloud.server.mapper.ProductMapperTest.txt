@@ -1,0 +1,54 @@
+-------------------------------------------------------------------------------
+Test set: com.springcloud.server.mapper.ProductMapperTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 76.835 s <<< FAILURE! - in com.springcloud.server.mapper.ProductMapperTest
+findById(com.springcloud.server.mapper.ProductMapperTest)  Time elapsed: 31.471 s  <<< ERROR!
+org.mybatis.spring.MyBatisSystemException: 
+nested exception is org.apache.ibatis.exceptions.PersistenceException: 
+### Error querying database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is java.sql.SQLException: Connections could not be acquired from the underlying database!
+### The error may exist in com/springcloud/server/mapper/ProductMapper.java (best guess)
+### The error may involve com.springcloud.server.mapper.ProductMapper.findById
+### The error occurred while executing a query
+### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is java.sql.SQLException: Connections could not be acquired from the underlying database!
+	at com.springcloud.server.mapper.ProductMapperTest.findById(ProductMapperTest.java:25)
+Caused by: org.apache.ibatis.exceptions.PersistenceException: 
+
+### Error querying database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is java.sql.SQLException: Connections could not be acquired from the underlying database!
+### The error may exist in com/springcloud/server/mapper/ProductMapper.java (best guess)
+### The error may involve com.springcloud.server.mapper.ProductMapper.findById
+### The error occurred while executing a query
+### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is java.sql.SQLException: Connections could not be acquired from the underlying database!
+	at com.springcloud.server.mapper.ProductMapperTest.findById(ProductMapperTest.java:25)
+Caused by: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is java.sql.SQLException: Connections could not be acquired from the underlying database!
+	at com.springcloud.server.mapper.ProductMapperTest.findById(ProductMapperTest.java:25)
+Caused by: java.sql.SQLException: Connections could not be acquired from the underlying database!
+	at com.springcloud.server.mapper.ProductMapperTest.findById(ProductMapperTest.java:25)
+Caused by: com.mchange.v2.resourcepool.CannotAcquireResourceException: A ResourcePool could not acquire a resource from its primary factory or source.
+	at com.springcloud.server.mapper.ProductMapperTest.findById(ProductMapperTest.java:25)
+Caused by: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown database 'springcloud'
+
+findAllProduct(com.springcloud.server.mapper.ProductMapperTest)  Time elapsed: 29.854 s  <<< ERROR!
+org.mybatis.spring.MyBatisSystemException: 
+nested exception is org.apache.ibatis.exceptions.PersistenceException: 
+### Error querying database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is java.sql.SQLException: Connections could not be acquired from the underlying database!
+### The error may exist in com/springcloud/server/mapper/ProductMapper.java (best guess)
+### The error may involve com.springcloud.server.mapper.ProductMapper.findAllProduct
+### The error occurred while executing a query
+### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is java.sql.SQLException: Connections could not be acquired from the underlying database!
+	at com.springcloud.server.mapper.ProductMapperTest.findAllProduct(ProductMapperTest.java:33)
+Caused by: org.apache.ibatis.exceptions.PersistenceException: 
+
+### Error querying database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is java.sql.SQLException: Connections could not be acquired from the underlying database!
+### The error may exist in com/springcloud/server/mapper/ProductMapper.java (best guess)
+### The error may involve com.springcloud.server.mapper.ProductMapper.findAllProduct
+### The error occurred while executing a query
+### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is java.sql.SQLException: Connections could not be acquired from the underlying database!
+	at com.springcloud.server.mapper.ProductMapperTest.findAllProduct(ProductMapperTest.java:33)
+Caused by: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is java.sql.SQLException: Connections could not be acquired from the underlying database!
+	at com.springcloud.server.mapper.ProductMapperTest.findAllProduct(ProductMapperTest.java:33)
+Caused by: java.sql.SQLException: Connections could not be acquired from the underlying database!
+	at com.springcloud.server.mapper.ProductMapperTest.findAllProduct(ProductMapperTest.java:33)
+Caused by: com.mchange.v2.resourcepool.CannotAcquireResourceException: A ResourcePool could not acquire a resource from its primary factory or source.
+	at com.springcloud.server.mapper.ProductMapperTest.findAllProduct(ProductMapperTest.java:33)
+Caused by: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown database 'springcloud'
+

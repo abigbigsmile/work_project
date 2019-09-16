@@ -67,9 +67,21 @@
         <!-- 在本地仓库引入服务提供方的接口包 -->
         <dependency>
             <groupId>com.springcloud</groupId>
+            <artifactId>common</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+            <groupId>com.springcloud</groupId>
             <artifactId>client</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
+
+        <!-- Lombok  -->
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+        </dependency>
+
 
         <!-- eureka注册中心 -->
         <dependency>
