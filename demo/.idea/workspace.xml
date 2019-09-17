@@ -2,30 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="572a430e-a2c0-4240-8d4d-7b83ae7b5639" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../api-gateway/src/main/java/com/springcloud/apigateway/config/ZuulConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/HappyNumber_202.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/IntersectionOfTwoArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/IntersectionOfTwoArrays_xx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/MinimumSizeSubarraySum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/MinimumWindowSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/SubstringWithConcatenationOfAllWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/TwoNumBinaryCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/ValidAnagram_242.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/ValidPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/WordPattern_290.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../microservice-demo-2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/FourSumII_454.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/GroupAnagrams_49.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/IsomorphicStrings_205.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/KSum_18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/MaxPointsOnALine_149.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/NumberOfBoomerangs_447.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/SortCharactersByFrequency_451.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/ThreeSumClosest_16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/ThreeSum_15.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/LongestSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/LongestSubstring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/demo.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/algorithm/LongestSubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/smile/algorithm/LongestSubstring.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../microservice-demo-1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../microservice-demo-1/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../microservice-demo-1/src/main/java/com/springcloud/microservicedemo1/controller/ConfigController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../microservice-demo-1/src/main/java/com/springcloud/microservicedemo1/controller/ConfigController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../microservice-demo-1/src/main/java/com/springcloud/microservicedemo1/message/RabbitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../microservice-demo-1/src/main/java/com/springcloud/microservicedemo1/message/RabbitTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../microservice-demo-1/src/main/java/com/springcloud/microservicedemo1/message/StreamMessageReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../microservice-demo-1/src/main/java/com/springcloud/microservicedemo1/message/StreamMessageReceiver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../microservice-demo-1/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../microservice-demo-1/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../microservice-demo-2/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../microservice-demo-2/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../microservice-demo-2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../microservice-demo-2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/WordPattern_290.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/WordPattern_290.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/smile/sort/Count.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smile/sort/Count.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/algorithm/WordPattern_290.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/smile/algorithm/WordPattern_290.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/sort/Count.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/smile/sort/Count.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -57,13 +47,18 @@
       <find>temp</find>
       <find>L[0].length()</find>
       <find>S</find>
-      <find>S</find>
+      <find>s[i]</find>
+      <find>t[i]</find>
+      <find>num[</find>
     </findStrings>
     <replaceStrings>
       <replace>binarySortRecursion</replace>
       <replace>countArray</replace>
       <replace>len</replace>
       <replace>s</replace>
+      <replace>s.charAt(i)</replace>
+      <replace>t.charAt(i)</replace>
+      <replace>nums[</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -74,7 +69,6 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/com/smile/search/BinarySearch.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/smile/sort/Utils.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/smile/sort/Count.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/smile/sort/SelectionSort.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/smile/sort/Selection.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/smile/sort/Insertion.java" />
@@ -99,6 +93,16 @@
         <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm/HappyNumber_202.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm/ValidAnagram_242.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm/WordPattern_290.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/smile/sort/Count.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm/IsomorphicStrings_205.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm/SortCharactersByFrequency_451.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm/ThreeSum_15.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm/KSum_18.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm/ThreeSumClosest_16.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm/FourSumII_454.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm/GroupAnagrams_49.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm/NumberOfBoomerangs_447.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm/MaxPointsOnALine_149.java" />
       </list>
     </option>
   </component>
@@ -114,7 +118,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
     <option name="width" value="697" />
     <option name="height" value="735" />
@@ -127,64 +131,20 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="smile" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="smile" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568629319654" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568726391045" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15106007" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -202,9 +162,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.WordPattern_290">
-    <configuration name="HappyNumber_202" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.smile.algorithm.HappyNumber_202" />
+  <component name="RunManager" selected="Application.MaxPointsOnALine_149">
+    <configuration name="GroupAnagrams_49" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.smile.algorithm.GroupAnagrams_49" />
       <module name="demo" />
       <extension name="coverage">
         <pattern>
@@ -216,8 +176,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntersectionOfTwoArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.smile.algorithm.IntersectionOfTwoArrays" />
+    <configuration name="KSum_18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.smile.algorithm.KSum_18" />
       <module name="demo" />
       <extension name="coverage">
         <pattern>
@@ -229,8 +189,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntersectionOfTwoArrays_xx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.smile.algorithm.IntersectionOfTwoArrays_xx" />
+    <configuration name="MaxPointsOnALine_149" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.smile.algorithm.MaxPointsOnALine_149" />
       <module name="demo" />
       <extension name="coverage">
         <pattern>
@@ -242,8 +202,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValidAnagram_242" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.smile.algorithm.ValidAnagram_242" />
+    <configuration name="NumberOfBoomerangs_447" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.smile.algorithm.NumberOfBoomerangs_447" />
       <module name="demo" />
       <extension name="coverage">
         <pattern>
@@ -255,8 +215,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WordPattern_290" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.smile.algorithm.WordPattern_290" />
+    <configuration name="ThreeSumClosest_16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.smile.algorithm.ThreeSumClosest_16" />
       <module name="demo" />
       <extension name="coverage">
         <pattern>
@@ -270,11 +230,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.WordPattern_290" />
-        <item itemvalue="Application.HappyNumber_202" />
-        <item itemvalue="Application.ValidAnagram_242" />
-        <item itemvalue="Application.IntersectionOfTwoArrays_xx" />
-        <item itemvalue="Application.IntersectionOfTwoArrays" />
+        <item itemvalue="Application.MaxPointsOnALine_149" />
+        <item itemvalue="Application.NumberOfBoomerangs_447" />
+        <item itemvalue="Application.GroupAnagrams_49" />
+        <item itemvalue="Application.ThreeSumClosest_16" />
+        <item itemvalue="Application.KSum_18" />
       </list>
     </recent_temporary>
   </component>
@@ -301,16 +261,19 @@
       <workItem from="1568277130601" duration="1945000" />
       <workItem from="1568510650942" duration="1582000" />
       <workItem from="1568600065090" duration="24047000" />
+      <workItem from="1568632259945" duration="6018000" />
+      <workItem from="1568691920804" duration="12128000" />
+      <workItem from="1568707371359" duration="13811000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="100141000" />
+    <option name="totallyTimeSpent" value="132098000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5022489" visible="true" weight="0.24040511" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5022489" visible="true" weight="0.24840085" />
       <window_info id="Structure" order="1" sideWeight="0.50088185" side_tool="true" weight="0.13646056" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -320,15 +283,15 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.27657267" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.38720173" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.22234273" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.18004338" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3286334" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.17570499" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" />
@@ -342,6 +305,39 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5022489" visible="true" weight="0.24840085" />
+      <window_info id="Structure" order="1" sideWeight="0.50088185" side_tool="true" weight="0.13646056" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.49775112" side_tool="true" weight="0.24040511" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.22234273" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.34164858" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.17570499" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24946696" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -385,17 +381,60 @@
           <properties />
           <option name="timeStamp" value="45" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/SortCharactersByFrequency_451.java</url>
+          <line>83</line>
+          <properties />
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/ThreeSum_15.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/KSum_18.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/GroupAnagrams_49.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/NumberOfBoomerangs_447.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="pattern.length()" language="JAVA" />
         <watch expression="pattern.charAt(129)" language="JAVA" />
+        <watch expression="map" />
+        <watch expression="generateGcd(3,0)" language="JAVA" />
+        <watch expression="generateGcd(0,3)" language="JAVA" />
       </configuration>
     </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
+      <expression>
+        <expression-string>generateGcd(0,3)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>generateGcd(3,0)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>pattern.charAt(129)</expression-string>
         <language-id>JAVA</language-id>
@@ -434,17 +473,6 @@
           <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/sort/Count.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="49" column="4" selection-start-line="49" selection-start-column="4" selection-end-line="56" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#countSort#0;class#Count#0" />
           </folding>
         </state>
       </provider>
@@ -659,10 +687,121 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/WordPattern_290.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+        <state relative-caret-position="423">
+          <caret line="43" column="20" lean-forward="true" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/sort/Count.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-28">
+          <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/IsomorphicStrings_205.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/SortCharactersByFrequency_451.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="90" column="5" lean-forward="true" selection-start-line="90" selection-start-column="5" selection-end-line="90" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#frequencySort#0;class#SortCharactersByFrequency_451#0" />
+            <element signature="method#frequencySort#1;class#SortCharactersByFrequency_451#0" />
+            <element signature="method#frequencySort_xx#0;class#SortCharactersByFrequency_451#0" />
+            <element signature="e#2539#2709#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/ThreeSum_15.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+          <folding>
+            <element signature="method#threeSum#0;class#ThreeSum_15#0" />
+            <element signature="method#threeSum#1;class#ThreeSum_15#0" />
+            <element signature="method#threeSum_xx#0;class#ThreeSum_15#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/KSum_18.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="84" column="9" lean-forward="true" selection-start-line="84" selection-start-column="9" selection-end-line="84" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#fourSum#0;class#KSum_18#0" />
+            <element signature="method#ksum#0;class#KSum_18#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/ThreeSumClosest_16.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="17" column="43" lean-forward="true" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+          <folding>
+            <element signature="method#main#0;class#ThreeSumClosest_16#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/FourSumII_454.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="45" column="5" lean-forward="true" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#fourSumCount#0;class#FourSumII_454#0" />
+            <element signature="e#1434#1452#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/GroupAnagrams_49.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="27" column="10" lean-forward="true" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
+          <folding>
+            <element signature="method#groupAnagrams#0;class#GroupAnagrams_49#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/NumberOfBoomerangs_447.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="26" column="38" lean-forward="true" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/MaxPointsOnALine_149.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#main#0;class#MaxPointsOnALine_149#0" />
+            <element signature="method#maxPoints#0;class#MaxPointsOnALine_149#0" />
+            <element signature="method#maxPoints#1;class#MaxPointsOnALine_149#0" />
+            <element signature="method#generateGcd#0;class#MaxPointsOnALine_149#0" />
           </folding>
         </state>
       </provider>

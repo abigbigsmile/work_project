@@ -15,7 +15,7 @@ public class Count {
         }
         int index = 0;
         for(int i=0; i<count.length; i++){
-            for(int j=0; j<count[i]; j++){
+            for(int j=0; j<count[j]; j++){
                 arr[index++] = i;
             }
         }
