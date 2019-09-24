@@ -6,7 +6,7 @@ import org.apache.commons.lang.StringUtils;
 import java.util.HashMap;
 import java.util.HashSet;
 
-public class LongestSubstring {
+public class LongestSubstringWithoutRepeatingCharacters_3 {
 
     public static void main(String[] args) {
         System.out.println(lengthOfLongestSubstring("longestubstringithoutrepeatingcharacters"));

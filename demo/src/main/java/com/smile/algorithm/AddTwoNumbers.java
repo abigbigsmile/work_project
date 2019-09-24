@@ -76,10 +76,7 @@ public class AddTwoNumbers {
 
     }
 
-}
-
-
-    class ListNode {
+    static class ListNode {
         int val;
         ListNode next;
 
@@ -87,3 +84,6 @@ public class AddTwoNumbers {
             val = x;
         }
     }
+}
+
+
