@@ -24,7 +24,7 @@ public class Quick {
         int pivot = arr[left];
         while(left < right){
             //这一步很重要:以左边作为基准，则要先从右边开始遍历。为什么？
-            //先从左边开始,相遇数是大于基准数的，无法满足temp左边的数都小于它。所以进行扫描，要从基准数的对面开始
+            //如果先从左边开始,相遇数是大于基准数的，无法满足temp左边的数都小于它。所以进行扫描，要从基准数的对面开始
             while(left < right && arr[right] >= pivot) right--;
             while(left < right && arr[left] <= pivot) left++;
             swap(arr, left, right);
@@ -69,11 +69,6 @@ public class Quick {
         }
         return nums[left];
     }
-
-
-
-
-
 
     public static void main(String[] args) {
         int[] arr = {0,9,-1,6,7,3,5,12,46,23,16,38,48,97,54,34,89,-5};
