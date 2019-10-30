@@ -25,7 +25,7 @@ public class Shell {
         int[] arr = {0,9,-1,6,7,3,5,12,46,23,16,38,48,97,54,34,89,-5};
         //int[] arr = {1,7,4,2,6};
         print(arr);
-        shellSort(arr, 2);
+        shellSort(arr, 3);
         print(arr);
     }
 }

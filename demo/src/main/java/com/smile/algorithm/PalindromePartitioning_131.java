@@ -10,6 +10,7 @@ public class PalindromePartitioning_131 {
         List<List<String>> res = partition(s);
         List<List<String>> ress = partition_x(s);
         System.out.println();
+        List<Integer> list = new ArrayList<>();
     }
 
     public static List<List<String>> partition(String s) {
