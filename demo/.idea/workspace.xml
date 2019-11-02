@@ -2,48 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="572a430e-a2c0-4240-8d4d-7b83ae7b5639" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/WrittenExamination/LRUCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/WrittenExamination/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/WrittenExamination/MaxLengthAllOneString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/WrittenExamination/QingTingFM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/WrittenExamination/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/WrittenExamination/TraversingGraph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/BinaryWatch_401.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/CircularPermutationInBinaryRepresentation_5239.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/ClimbingStairs_70.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/CombinationSumIII_216.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/CombinationSumII_40.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/CombinationSum_39.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/DecodeWays_91.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/HouseRobberIII_337.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/HouseRobberII_213.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/HouseRobber_98.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/IntegerBreak_343.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/Knapsack01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/MinimumPathSum_64.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/NQueens_51.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/NumberOfIslands_200.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/PacificAtlanticWaterFlow_417.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/PermutationsII_47.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/Permutations_46.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/QueensThatCanAttackTheKing_5223.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/SplitAStringInBalancedStrings_5222.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/SubsetsII_90.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/Subsets_78.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/SudokuSolver_37.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/SurroundedRegions_130.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/SurroundedRegions_x_130.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/Triangle_120.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/UniquePathsII_63.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/UniquePaths_62.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/WordSearch_79.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/CoinChange_322.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/Knapsack01_x.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/LongestCommonSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/LongestIncreasingSubsequence_300.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/OnesAndZeroes_474.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/PartitionEqualSubsetSum_416.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/TargetSum_494.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/WiggleSubsequence_376.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/WordBreak_139.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/PalindromePartitioning_131.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/PalindromePartitioning_131.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/PerfectSquares_279.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/PerfectSquares_279.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/smile/sort/Shell.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smile/sort/Shell.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/algorithm/PalindromePartitioning_131.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/smile/algorithm/PalindromePartitioning_131.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/algorithm/PerfectSquares_279.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/smile/algorithm/PerfectSquares_279.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/sort/Shell.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/smile/sort/Shell.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/smile/WrittenExamination/LRUCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smile/WrittenExamination/LRUCache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/Knapsack01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/Knapsack01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/WrittenExamination/QingTingFM.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/smile/WrittenExamination/QingTingFM.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/algorithm/Knapsack01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/smile/algorithm/Knapsack01.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -85,51 +57,7 @@
     <favorites_list name="demo" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/LongestSubstringWithoutRepeatingCharacters_3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1322">
-              <caret line="72" column="19" lean-forward="true" selection-start-line="61" selection-start-column="8" selection-end-line="72" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/WrittenExamination/QingTingFM.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="401">
-              <caret line="53" column="5" lean-forward="true" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
-              <folding>
-                <element signature="e#115#116#0" expanded="true" />
-                <element signature="e#138#139#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/WrittenExamination/LRUCache.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/PathSumIII_437.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -170,15 +98,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm/RemoveAllAdjacentDuplicatesInStringII_5206.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm/PathSumII_113.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm/PathSumIII_437.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/smile/sort/Quick.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm/BinaryTreePreorderTraversal_144.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm/ConvertSortedArrayToBinarySearchTree_108.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm/ValidateBinarySearchTree_98.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm/LowestCommonAncestorOfABinaryTree_236.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm/LetterCombinationsOfAPhoneNumber_17.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm/RestoreIPAddresses_93.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm/PalindromePartitioning_131.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm/Permutations_46.java" />
@@ -218,9 +137,18 @@
         <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm/HouseRobber_98.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm/HouseRobberIII_337.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm/Knapsack01.kt" />
-        <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm/Knapsack01.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/smile/WrittenExamination/QingTingFM.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/smile/WrittenExamination/LRUCache.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm/PartitionEqualSubsetSum_416.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm/Knapsack01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm/Knapsack01_x.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm/CoinChange_322.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm/OnesAndZeroes_474.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm/WordBreak_139.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm/TargetSum_494.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm/LongestIncreasingSubsequence_300.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm/WiggleSubsequence_376.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm/LongestCommonSequence.java" />
       </list>
     </option>
   </component>
@@ -237,8 +165,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="678" />
-    <option name="y" value="44" />
+    <option name="x" value="-7" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -250,6 +177,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -290,21 +219,19 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="smile" type="462c0819:PsiDirectoryNode" />
-              <item name="WrittenExamination" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572439706195" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572613297317" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Java" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -326,9 +253,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.QingTingFM">
-    <configuration name="HouseRobberII_213" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.smile.algorithm.HouseRobberII_213" />
+  <component name="RunManager" selected="Application.LongestCommonSequence">
+    <configuration name="LongestCommonSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.smile.algorithm.LongestCommonSequence" />
       <module name="demo" />
       <extension name="coverage">
         <pattern>
@@ -340,8 +267,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HouseRobber_98" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.smile.algorithm.HouseRobber_98" />
+    <configuration name="LongestIncreasingSubsequence_300" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.smile.algorithm.LongestIncreasingSubsequence_300" />
       <module name="demo" />
       <extension name="coverage">
         <pattern>
@@ -353,8 +280,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Knapsack01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.smile.algorithm.Knapsack01" />
+    <configuration name="TargetSum_494" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.smile.algorithm.TargetSum_494" />
       <module name="demo" />
       <extension name="coverage">
         <pattern>
@@ -366,12 +293,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QingTingFM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.smile.WrittenExamination.QingTingFM" />
+    <configuration name="WiggleSubsequence_376" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.smile.algorithm.WiggleSubsequence_376" />
       <module name="demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.smile.WrittenExamination.*" />
+          <option name="PATTERN" value="com.smile.algorithm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -379,8 +306,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UniquePathsII_63" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.smile.algorithm.UniquePathsII_63" />
+    <configuration name="WordBreak_139" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.smile.algorithm.WordBreak_139" />
       <module name="demo" />
       <extension name="coverage">
         <pattern>
@@ -394,11 +321,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.QingTingFM" />
-        <item itemvalue="Application.Knapsack01" />
-        <item itemvalue="Application.HouseRobberII_213" />
-        <item itemvalue="Application.HouseRobber_98" />
-        <item itemvalue="Application.UniquePathsII_63" />
+        <item itemvalue="Application.LongestCommonSequence" />
+        <item itemvalue="Application.WiggleSubsequence_376" />
+        <item itemvalue="Application.LongestIncreasingSubsequence_300" />
+        <item itemvalue="Application.TargetSum_494" />
+        <item itemvalue="Application.WordBreak_139" />
       </list>
     </recent_temporary>
   </component>
@@ -455,18 +382,23 @@
       <workItem from="1572331255419" duration="637000" />
       <workItem from="1572425365882" duration="2467000" />
       <workItem from="1572435636709" duration="3000" />
-      <workItem from="1572435835313" duration="3850000" />
+      <workItem from="1572435835313" duration="4780000" />
+      <workItem from="1572483846899" duration="7494000" />
+      <workItem from="1572505123651" duration="16108000" />
+      <workItem from="1572570286734" duration="8584000" />
+      <workItem from="1572590142071" duration="9532000" />
+      <workItem from="1572604134871" duration="6688000" />
+      <workItem from="1572624392681" duration="680000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="390083000" />
+    <option name="totallyTimeSpent" value="440099000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.17302053" visible="true" weight="0.23347548" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.17302053" visible="true" weight="0.1988273" />
       <window_info id="Structure" order="1" sideWeight="0.82697946" side_tool="true" weight="0.26599148" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -476,8 +408,8 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2505423" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.28416485" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31019524" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39154014" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -500,7 +432,7 @@
       <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32995737" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.17302053" visible="true" weight="0.26279318" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.17302053" visible="true" weight="0.1924307" />
       <window_info id="Structure" order="1" sideWeight="0.82697946" side_tool="true" weight="0.26599148" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -510,8 +442,8 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23969631" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.28148958" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31019524" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.44902387" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -817,6 +749,18 @@
           <properties />
           <option name="timeStamp" value="486" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/TargetSum_494.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="496" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/LongestIncreasingSubsequence_300.java</url>
+          <line>49</line>
+          <properties />
+          <option name="timeStamp" value="508" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
@@ -873,140 +817,53 @@
     </expressions>
     <expressions id="evaluateExpression">
       <expression>
-        <expression-string>i</expression-string>
+        <expression-string>j-nums[i]</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>ReverseLinkedListII_92.printNode(dummy.next);</expression-string>
+        <expression-string>j-nums[i]+sum</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>set.contains(s.substring(j, i))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>s.substring(j, i)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>word.equals(s.substring(j-word.length(), j)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>s.substring(j-word.length(), j)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>s.substring(j-word.length())</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>k*coins[i]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>k</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/ValidateBinarySearchTree_98.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/LowestCommonAncestorOfABinaryTree_236.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#main#0;class#LowestCommonAncestorOfABinaryTree_236#0" />
-            <element signature="method#lowestCommonAncestor#0;class#LowestCommonAncestorOfABinaryTree_236#0" />
-            <element signature="e#608#627#0" expanded="true" />
-            <element signature="e#705#715#0" expanded="true" />
-            <element signature="e#1121#1131#0" expanded="true" />
-            <element signature="method#lowestCommonAncestor#1;class#LowestCommonAncestorOfABinaryTree_236#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/LetterCombinationsOfAPhoneNumber_17.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="17" column="47" lean-forward="true" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#helper#0;class#LetterCombinationsOfAPhoneNumber_17#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/sort/Merge.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="43" lean-forward="true" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="633" column="19" selection-start-line="633" selection-start-column="19" selection-end-line="633" selection-end-column="19" />
-          <folding>
-            <element signature="e#23072#23073#0" expanded="true" />
-            <element signature="e#23112#23113#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/RestoreIPAddresses_93.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="45" column="33" lean-forward="true" selection-start-line="45" selection-start-column="33" selection-end-line="45" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#restoreIpAddresses#0;class#RestoreIPAddresses_93#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/PalindromePartitioning_131.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="7" column="44" lean-forward="true" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#partition#0;class#PalindromePartitioning_131#0" />
-            <element signature="method#helper#0;class#PalindromePartitioning_131#0" />
-            <element signature="method#ispalindrome#0;class#PalindromePartitioning_131#0" />
-            <element signature="method#checkPalindrome#0;class#PalindromePartitioning_131#0" />
-            <element signature="method#partition_x#0;class#PalindromePartitioning_131#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="491" selection-start-line="491" selection-end-line="491" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/Permutations_46.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="13" column="5" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="13" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/PermutationsII_47.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="37" column="9" lean-forward="true" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/SplitAStringInBalancedStrings_5222.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-          <folding>
-            <element signature="method#main#0;class#SplitAStringInBalancedStrings_5222#0" />
-            <element signature="method#balancedStringSplit#0;class#SplitAStringInBalancedStrings_5222#0" />
-            <element signature="method#balancedStringSplit_x#0;class#SplitAStringInBalancedStrings_5222#0" />
-            <element signature="method#helper#0;class#SplitAStringInBalancedStrings_5222#0" />
-            <element signature="method#isBalancedString#0;class#SplitAStringInBalancedStrings_5222#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/sort/Insertion.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -1310,13 +1167,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/Knapsack01.kt" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/Knapsack01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="71">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/WrittenExamination/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -1330,13 +1180,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/LongestSubstringWithoutRepeatingCharacters_3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1322">
-          <caret line="72" column="19" lean-forward="true" selection-start-line="61" selection-start-column="8" selection-end-line="72" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/PathSumIII_437.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -1347,21 +1190,120 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/WrittenExamination/LRUCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/WrittenExamination/QingTingFM.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
+        <state relative-caret-position="1590">
           <caret line="53" column="5" lean-forward="true" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
           <folding>
-            <element signature="e#115#116#0" expanded="true" />
-            <element signature="e#138#139#0" expanded="true" />
+            <element signature="e#320#321#0" expanded="true" />
+            <element signature="e#344#345#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/WrittenExamination/LRUCache.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/LongestSubstringWithoutRepeatingCharacters_3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="59" column="13" lean-forward="true" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/PartitionEqualSubsetSum_416.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/CoinChange_322.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="43" column="9" lean-forward="true" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/Knapsack01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="586">
+          <caret line="76" column="7" lean-forward="true" selection-start-line="76" selection-start-column="7" selection-end-line="76" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/OnesAndZeroes_474.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="788">
+          <caret line="66" column="29" lean-forward="true" selection-start-line="66" selection-start-column="29" selection-end-line="66" selection-end-column="29" />
+          <folding>
+            <element signature="method#main#0;class#OnesAndZeroes_474#0" />
+            <element signature="method#getZeroOne#0;class#OnesAndZeroes_474#0" />
+            <element signature="method#findMaxForm#0;class#OnesAndZeroes_474#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/Knapsack01_x.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="47" column="40" selection-start-line="47" selection-start-column="40" selection-end-line="47" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/WordBreak_139.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/TargetSum_494.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="18" column="49" selection-start-line="18" selection-start-column="12" selection-end-line="19" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/LetterCombinationsOfAPhoneNumber_17.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/LongestIncreasingSubsequence_300.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="1920" column="9" lean-forward="true" selection-start-line="1920" selection-start-column="9" selection-end-line="1920" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/WiggleSubsequence_376.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="33" column="53" lean-forward="true" selection-start-line="33" selection-start-column="53" selection-end-line="33" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/LongestCommonSequence.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
         </state>
       </provider>
     </entry>
