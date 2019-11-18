@@ -26,24 +26,24 @@ public class LongestCommonSequence {
      * else dp(m, n) = max(dp(m, n+1), dp(m+1, n))
      */
     public static int lengthOfLongestCommonSequence_x(String s1, String s2){
-        int[][] dp = new int[s1.length()][s2.length()];
-        for(int i=0; i<s1.length(); i++) dp[i][0] = s1.charAt(i)==s2.charAt(0)? 1 : 0;
+        int[][] dp = new int[s1.length()+1][s2.length()+1];
+//        for(int i=0; i<s1.length(); i++) dp[i][0] = s1.charAt(i)==s2.charAt(0)? 1 : 0;
+//        for(int i=0; i<s2.length(); i++) dp[0][i] = s2.charAt(i)==s1.charAt(0)? 1 : 0;
 
-        for(int i=0; i<s2.length(); i++) dp[0][i] = s2.charAt(i)==s1.charAt(0)? 1 : 0;
-
-
-        for(int m=1; m<s1.length(); m++){
-            for (int n=1; n<s2.length(); n++){
-                if(s1.charAt(m) == s2.charAt(n)){
+        for(int m=1; m<=s1.length(); m++){
+            for (int n=1; n<=s2.length(); n++){
+                if(s1.charAt(m-1) == s2.charAt(n-1)){
                     dp[m][n] = 1 + dp[m-1][n-1];
                 }else{
                     dp[m][n] = Math.max(dp[m][n-1], dp[m-1][n]);
                 }
             }
         }
-        return dp[s1.length()-1][s2.length()-1];
+        return dp[s1.length()][s2.length()];
 
     }
+
+
 
 
 

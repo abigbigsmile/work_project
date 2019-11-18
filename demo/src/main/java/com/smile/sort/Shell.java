@@ -5,15 +5,19 @@ import static com.smile.sort.Utils.swap;
 
 public class Shell {
 
+    //可更改步长
     public static void shellSort(int[] arr, int step){
-        //k表示分组个数
-        int k = arr.length/step + 1;
+        //k表示增量，当增量为1时即表示步长唯一的插入排序
+        int k = 1;
+        while(k<arr.length/step){
+            k = k*step + 1;
+        }
         while(k>=1){
             //循环组数对应的次数
             for(int i=k; i<arr.length; i++){
                 //对每一个分组进行插入排序
                 for(int j=i; j>=k; j-=k){
-                    if(arr[j-k]>arr[j])swap(arr,j-k,j);
+                    if(arr[j]<arr[j-k])swap(arr,j-k,j);
                 }
             }
             //缩小分组增量

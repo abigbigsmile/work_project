@@ -2,6 +2,9 @@ package com.smile.algorithm;
 
 import java.util.Arrays;
 
+/**
+ * 动态规划问题
+ */
 public class LongestIncreasingSubsequence_300 {
 
     public static void main(String[] args) {
