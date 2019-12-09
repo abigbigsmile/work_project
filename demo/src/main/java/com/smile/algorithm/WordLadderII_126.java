@@ -9,8 +9,8 @@ public class WordLadderII_126 {
         String  endWord = "cog";
         String[] strings = {"hot","dot","dog","lot","log","cog"};
         List<String> wordList  = Arrays.asList(strings);
-        findLadders(beginWord, endWord, wordList);
-
+        List<List<String>> res = findLadders(beginWord, endWord, wordList);
+        System.out.println();
     }
 
     public static List<List<String>> findLadders(String beginWord, String endWord, List<String> wordList) {
@@ -111,11 +111,13 @@ public class WordLadderII_126 {
               res.add(new ArrayList<>(onePathList));
         }else{
             for(String next : nextNodeList.get(currentWord)){
+                // 注意点
                 if(distance.get(currentWord)+1 == distance.get(next)){
                     getPaths_dfs(next, endWord, distance, nextNodeList, onePathList, res);
                 }
             }
         }
+        //注意点
         onePathList.remove(onePathList.size()-1); //注意：这一步是回溯
     }
 

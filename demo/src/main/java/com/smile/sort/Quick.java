@@ -57,6 +57,12 @@ public class Quick {
         quick_three_way(arr, pos, right);
     }
 
+
+
+
+
+
+
     //使用快排找出第k大的值
     public static int findKthLargest(int[] nums, int k) {
         int left = 0;

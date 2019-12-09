@@ -19,7 +19,7 @@ public class MyThreadPool {
 
     private BlockingQueue<Runnable> queue; //任务等待队列
 
-    private HashSet<Worker> workers = new HashSet<>();;
+    private HashSet<Worker> workers = new HashSet<>();
 
     private List<Thread> pool = new ArrayList<>();
 
