@@ -1,4 +1,4 @@
-package com.smile.DynamicProgramming;
+package com.smile.algorithm_review.DynamicProgramming;
 
 public class ClimbingStairs_70 {
 

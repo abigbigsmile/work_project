@@ -5,13 +5,16 @@ import java.util.Arrays;
 public class Knapsack01 {
 
     public static void main(String[] args) {
-        int[] w = {2, 3, 4};
+        /*int[] w = {2, 3, 4};
         int[] v = {3, 5, 7};
         int maxNum = 3, maxWeight = 5;
         int[][] memo =  new int[maxNum+1][maxWeight+1];
         for(int i=0; i<maxNum; i++) Arrays.fill(memo[i], -1);
 
-        System.out.println(bestValue(w, v, memo,maxNum-1, maxWeight));
+        System.out.println(bestValue(w, v, memo,maxNum-1, maxWeight));*/
+        int[] w = { 0 , 2 , 3 , 4 , 5 };			//商品的体积2、3、4、5
+        int[] v = { 0 , 3 , 4 , 5 , 6 };			//商品的价值3、4、5、6
+        int maxWeight = 8;
         System.out.println(bestValue_x(w, v, maxWeight));
         System.out.println(bestValue_xx(w, v, maxWeight));
         System.out.println(bestValue_xxx(w, v, maxWeight));

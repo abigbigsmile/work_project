@@ -1,4 +1,4 @@
-package com.smile.nowcoder;
+package com.smile.nowcoder.First;
 
 import com.smile.algorithm.TreeNode;
 

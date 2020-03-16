@@ -58,6 +58,7 @@ public class SortCharactersByFrequency_451 {
     }
 
     //使用PriorityQueue
+
     public static String frequencySort_xx(String s){
         HashMap<Character, Integer> hashMap = new HashMap<>();
         for(char c : s.toCharArray()) hashMap.put(c, hashMap.getOrDefault(c, 0)+1);
@@ -79,4 +80,5 @@ public class SortCharactersByFrequency_451 {
         }
         return sb.toString();
     }
+
 }

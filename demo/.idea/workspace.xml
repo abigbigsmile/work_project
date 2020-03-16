@@ -2,148 +2,73 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="572a430e-a2c0-4240-8d4d-7b83ae7b5639" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/DynamicProgramming/ClimbingStairs_70.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/DynamicProgramming/MinimumPathSum_64.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/DynamicProgramming/Triangle_120.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/WrittenExamination/ComputeCow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/WrittenExamination/ProducerConsumer_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/WrittenExamination/ProducerConsumer_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/WrittenExamination/ProducerConsumer_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/WrittenExamination/fanruan/FanRuan_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/WrittenExamination/fanruan/FanRuan_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/WrittenExamination/fanruan/FanRuan_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/WrittenExamination/qianxin/QiAnXin_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BackTrack/LetterCombinationsOfAPhoneNumber_17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BackTrack/NQueensII_52.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BackTrack/NQueens_51.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BinaryTree_Recursive_BFS_DFS/BinaryTreeInorderTraversal_94.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BinaryTree_Recursive_BFS_DFS/BinaryTreeLevelOrderTraversalII_107.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BinaryTree_Recursive_BFS_DFS/BinaryTreeLevelOrderTraversal_102.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BinaryTree_Recursive_BFS_DFS/BinaryTreePostorderTraversal_145.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BinaryTree_Recursive_BFS_DFS/BinaryTreePreorderTraversal_144.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BinaryTree_Recursive_BFS_DFS/BinaryWatch_401.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BinaryTree_Recursive_BFS_DFS/Combinations_77.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BinaryTree_Recursive_BFS_DFS/CountCompleteTreeNodes_222.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BinaryTree_Recursive_BFS_DFS/MinimumDepthOfBinaryTree_111.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BinaryTree_Recursive_BFS_DFS/MostFrequentSubtreeSum_508.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BinaryTree_Recursive_BFS_DFS/PalindromePartitioning_131.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BinaryTree_Recursive_BFS_DFS/PathSum_112.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BinaryTree_Recursive_BFS_DFS/PerfectSquares_279.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BinaryTree_Recursive_BFS_DFS/PermutationsII_47.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BinaryTree_Recursive_BFS_DFS/Permutations_46.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BinaryTree_Recursive_BFS_DFS/SubsetsII_90.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BinaryTree_Recursive_BFS_DFS/SurroundedRegions_130.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BinaryTree_Recursive_BFS_DFS/WordLadder_127.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BinaryTree_Recursive_BFS_DFS/WordSearch_79.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/CollectionUsage/MergeKSortedLists_23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/CollectionUsage/TopKFrequentElements_347.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/CollectionUsage/TopKFrequentWords_692.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/FirstMissingPositive_41.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/ListNodes/AddTwoNumbers_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/ListNodes/InsertionSortList_147.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/ListNodes/MergeTwoSortedLists_21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/ListNodes/PartitionList_86.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/ListNodes/RemoveDuplicatesFromSortedListII_82.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/ListNodes/RemoveDuplicatesFromSortedList_83.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/ListNodes/RemoveLinkedListElements_203.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/ListNodes/RemoveNthNodeFromEndOfList_19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/ListNodes/ReverseLinkedListII_92.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/ListNodes/ReverseLinkedList_206.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/ListNodes/ReverseNodesInKGroup_25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/ListNodes/RotateList_61.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/ListNodes/SortList_148.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/ListNodes/SwapNodesInPairs_24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/Recursive/MaximumDepthOfBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/SlidingWindow/ContainsDuplicateIII_220.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/StackAndQueue/EvaluateReversePolishNotation_150.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/StackAndQueue/SimplifyPath_71.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/StackAndQueue/ValidParentheses_20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/RebuildBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/WrittenExamination/CompareVersion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/WrittenExamination/RuanTongBei/ChangeBottle_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/DynamicProgramming/BestTimeToBuyAdSellStock_121.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/DynamicProgramming/CombinationSumIV_377.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/DynamicProgramming/DecodeWays_91.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/DynamicProgramming/Knapsack01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/DynamicProgramming/Knapsack01_x.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/DynamicProgramming/LongestCommonSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/DynamicProgramming/OnesAndZeroes_474.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/DynamicProgramming/PerfectSquares_279.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/DynamicProgramming/WiggleSubsequence_376.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/DynamicProgramming/WordBreak_139.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/ChangeOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/Convert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/Exponentiation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/FindContinuousSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/FindGreatestSumOfSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/FindKthToTail_13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/FindNumbersWithSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/FindNumsAppearOnce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/FindPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/FirstNotRepeatingChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/GetLeastNumbers_Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/GetNumberOfK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/GetUglyNumber_Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/InversePairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/IsPopOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/LeftRotateString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/Permutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/PrintMinNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/VerifySquenceOfBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/countOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/Eight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/Eleven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/Five.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/Four.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/Nine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/One.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/Seven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/Six.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/Ten.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/Three.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/Two.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/test/TestString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/smile/WrittenExamination/MyThreadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smile/WrittenExamination/MyThreadPool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/smile/WrittenExamination/ShuMei_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smile/WrittenExamination/shumei/ShuMei_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/smile/WrittenExamination/ShuMei_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smile/WrittenExamination/shumei/ShuMei_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/smile/WrittenExamination/ShuMei_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smile/WrittenExamination/shumei/ShuMei_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/smile/WrittenExamination/ShuMei_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smile/WrittenExamination/shumei/ShuMei_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/smile/WrittenExamination/ShuMei_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smile/WrittenExamination/shumei/ShuMei_5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/WordLadderII_126.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/WordLadderII_126.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/ContainerWithMostWater_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/CollidingPointer/ContainerWithMostWater_11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/ContainsDuplicateIII_220.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/ContainsDuplicateII_219.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/SlidingWindow/ContainsDuplicateII_219.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/FindAllAnagramsinAString_438.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/ListNodes/FindAllAnagramsinAString_438.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/ForthSumII_454.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/CollectionUsage/ForthSumII_454.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/GroupAnagrams_49.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/CollectionUsage/GroupAnagrams_49.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/HappyNumber_202.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/CollectionUsage/HappyNumber_202.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/IntersectionOfTwoArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/CollectionUsage/IntersectionOfTwoArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/IntersectionOfTwoArraysII_350.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/CollectionUsage/IntersectionOfTwoArraysII_350.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/IsomorphicStrings_205.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/CollectionUsage/IsomorphicStrings_205.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/KthLargestElementInAnArray_215.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/CollidingPointer/KthLargestElementInAnArray_215.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/LongestSubstringWithoutRepeatingCharacters_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/SlidingWindow/LongestSubstringWithoutRepeatingCharacters_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/MaxPointsOnALine_149.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/CollectionUsage/MaxPointsOnALine_149.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/MinimumSizeSubarraySum_209.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/SlidingWindow/MinimumSizeSubarraySum_209.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/MinimumWindowSubstring_76.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/SlidingWindow/MinimumWindowSubstring_76.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/MoveZeroes_283.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/ListNodes/MoveZeroes_283.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/NumberOfBoomerangs_447.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/CollectionUsage/NumberOfBoomerangs_447.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/RemoveDuplicatesFromSortedArray_26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/ListNodes/RemoveDuplicatesFromSortedArray_26.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/RemoveDuplicatesfromSortedArrayII_80.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/ListNodes/RemoveDuplicatesfromSortedArrayII_80.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/RemoveElement_27.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/ListNodes/RemoveElement_27.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/ReverseString_344.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/CollidingPointer/ReverseString_344.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/SortCharactersByFrequency_451.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/CollectionUsage/SortCharactersByFrequency_451.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/SortColors_75.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/ListNodes/SortColors_75.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/SubstringWithConcatenationOfAllWords_30.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/SlidingWindow/SubstringWithConcatenationOfAllWords_30.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/ThreeSumClosest_16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/CollectionUsage/ThreeSumClosest_16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/ThreeSum_15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/CollectionUsage/ThreeSum_15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/TwoSumII_167.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/CollidingPointer/TwoSumII_167.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/TwoSum_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/CollectionUsage/TwoSum_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/ValidAnagram_242.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/CollectionUsage/ValidAnagram_242.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/ValidPalindrome_125.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/CollidingPointer/ValidPalindrome_125.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/WordPattern_290.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/CollectionUsage/WordPattern_290.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/smile/sort/Quick.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smile/sort/Quick.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/smile/sort/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smile/sort/Utils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/WrittenExamination/ShuMei_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/WrittenExamination/ShuMei_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/WrittenExamination/ShuMei_3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/WrittenExamination/ShuMei_4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/WrittenExamination/ShuMei_5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/algorithm/WordLadderII_126.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/smile/algorithm/WordLadderII_126.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/algorithm_review/ContainerWithMostWater_11.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/algorithm_review/ContainsDuplicateII_219.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/algorithm_review/FindAllAnagramsinAString_438.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/algorithm_review/ForthSumII_454.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/algorithm_review/GroupAnagrams_49.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/algorithm_review/HappyNumber_202.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/algorithm_review/IntersectionOfTwoArrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/algorithm_review/IntersectionOfTwoArraysII_350.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/algorithm_review/IsomorphicStrings_205.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/algorithm_review/KthLargestElementInAnArray_215.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/algorithm_review/LongestSubstringWithoutRepeatingCharacters_3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/algorithm_review/MaxPointsOnALine_149.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/algorithm_review/MinimumSizeSubarraySum_209.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/algorithm_review/MinimumWindowSubstring_76.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/algorithm_review/MoveZeroes_283.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/algorithm_review/NumberOfBoomerangs_447.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/algorithm_review/RemoveDuplicatesFromSortedArray_26.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/algorithm_review/RemoveDuplicatesfromSortedArrayII_80.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/algorithm_review/RemoveElement_27.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/algorithm_review/ReverseString_344.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/algorithm_review/SortCharactersByFrequency_451$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/algorithm_review/SortCharactersByFrequency_451.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/algorithm_review/SortColors_75.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/algorithm_review/SubstringWithConcatenationOfAllWords_30.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/algorithm_review/ThreeSumClosest_16.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/algorithm_review/ThreeSum_15.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/algorithm_review/TwoSumII_167.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/algorithm_review/TwoSum_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/algorithm_review/ValidAnagram_242.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/algorithm_review/ValidPalindrome_125.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/algorithm_review/WordPattern_290.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/sort/Quick.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/smile/sort/Quick.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/smile/DynamicProgramming/ClimbingStairs_70.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/DynamicProgramming/ClimbingStairs_70.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/smile/DynamicProgramming/MinimumPathSum_64.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/DynamicProgramming/MinimumPathSum_64.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/smile/DynamicProgramming/Triangle_120.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/DynamicProgramming/Triangle_120.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/Knapsack01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/Knapsack01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/Knapsack01_x.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/Knapsack01_x.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/CollectionUsage/SortCharactersByFrequency_451.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/CollectionUsage/SortCharactersByFrequency_451.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/demo.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/demo.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/DynamicProgramming/ClimbingStairs_70.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/DynamicProgramming/MinimumPathSum_64.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/DynamicProgramming/Triangle_120.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/algorithm/Knapsack01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/smile/algorithm/Knapsack01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/algorithm/Knapsack01_x.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/smile/algorithm/Knapsack01_x.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/algorithm_review/CollectionUsage/SortCharactersByFrequency_451.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/smile/algorithm_review/CollectionUsage/SortCharactersByFrequency_451.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../microservice-demo-2/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../microservice-demo-2/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../microservice-demo-2/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../microservice-demo-2/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../microservice-demo-2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../microservice-demo-2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../microservice-demo-2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../microservice-demo-2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springsecurity_demo" beforeDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -183,9 +108,6 @@
   <component name="FavoritesManager">
     <favorites_list name="demo" />
   </component>
-  <component name="FileEditorManager">
-    <leaf />
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -209,6 +131,7 @@
       <find>C:\\Users\\Smile\\Desktop\\input.txt</find>
       <find>C:\\Users\\Smile\\Desktop\\input.txt&quot;</find>
       <find>begin</find>
+      <find>manHeap</find>
     </findStrings>
     <replaceStrings>
       <replace>binarySortRecursion</replace>
@@ -222,67 +145,11 @@
       <replace>cury</replace>
       <replace>D:\\input.txt</replace>
       <replace>right</replace>
+      <replace>maxHeap</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/RotateList_61.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/StackAndQueue/ValidParentheses_20.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/StackAndQueue/EvaluateReversePolishNotation_150.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/StackAndQueue/SimplifyPath_71.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm/TreeNode.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BinaryTree/BinaryTreePreorderTraversal_144.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BinaryTree/BinaryTreeInorderTraversal_94.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BinaryTree/BinaryTreePostorderTraversal_145.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BinaryTree/BinaryTreeLevelOrderTraversal_102.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BinaryTree/BinaryTreeLevelOrderTraversalII_107.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BinaryTree/PerfectSquares_279.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BinaryTree_Recursive_BFS_DFS/WordLadder_127.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm/WordLadderII_126.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BinaryTree_Recursive_BFS_DFS/TopKFrequentElements_347.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BinaryTree_Recursive_BFS_DFS/TopKFrequentWords_692.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/CollectionUsage/MergeKSortedLists_23.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/Recursive/MaximumDepthOfBinaryTree.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/FirstMissingPositive_41.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/RebuildBinaryTree.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/smile/WrittenExamination/MyThreadPool.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/smile/WrittenExamination/ProducerConsumer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/smile/WrittenExamination/ProducerConsumer_1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/smile/WrittenExamination/ProducerConsumer_2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/smile/WrittenExamination/ProducerConsumer_3.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/smile/WrittenExamination/ComputeCow.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/smile/WrittenExamination/qianxin/QiAnXin_1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BinaryTree_Recursive_BFS_DFS/MinimumDepthOfBinaryTree_111.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BinaryTree_Recursive_BFS_DFS/CountCompleteTreeNodes_222.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BinaryTree_Recursive_BFS_DFS/PathSum_112.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BinaryTree_Recursive_BFS_DFS/BinaryTreePreorderTraversal_144.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BackTrack/LetterCombinationsOfAPhoneNumber_17.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BinaryTree_Recursive_BFS_DFS/PalindromePartitioning_131.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BinaryTree_Recursive_BFS_DFS/Permutations_46.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BinaryTree_Recursive_BFS_DFS/PermutationsII_47.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BinaryTree_Recursive_BFS_DFS/Combinations_77.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/smile/sort/Quick.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm/LongestSubstringWithoutRepeatingCharacters_3.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BinaryTree_Recursive_BFS_DFS/SubsetsII_90.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BinaryTree_Recursive_BFS_DFS/BinaryWatch_401.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BinaryTree_Recursive_BFS_DFS/WordSearch_79.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BinaryTree_Recursive_BFS_DFS/SurroundedRegions_130.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BinaryTree_Recursive_BFS_DFS/NQueens_51.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BackTrack/NQueens_51.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BackTrack/NQueensII_52.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BinaryTree_Recursive_BFS_DFS/MostFrequentSubtreeSum_508.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/smile/DynamicProgramming/ClimbingStairs_70.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/smile/DynamicProgramming/Triangle_120.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/smile/DynamicProgramming/MinimumPathSum_64.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/smile/WrittenExamination/fanruan/FanRuan_1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/smile/WrittenExamination/fanruan/FanRuan_2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/smile/WrittenExamination/fanruan/FanRuan_3.java" />
-      </list>
-    </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -296,108 +163,34 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="demo Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="demo Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-        </path>
-      </expand>
-      <select />
-    </treeState>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
+  <component name="ProjectId" id="1ZDHR7KNtn7BpdJbQL7utrWPEM3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="smile" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="smile" type="462c0819:PsiDirectoryNode" />
-              <item name="WrittenExamination" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="smile" type="462c0819:PsiDirectoryNode" />
-              <item name="WrittenExamination" type="462c0819:PsiDirectoryNode" />
-              <item name="fanruan" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1575622349176" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../springsecurity_demo" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1577276530953" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15106007" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -406,25 +199,13 @@
       <recent name="com.smile.algorithm_review" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.FanRuan_3">
-    <configuration name="FanRuan_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.smile.WrittenExamination.fanruan.FanRuan_1" />
+  <component name="RunManager" selected="Application.Ten">
+    <configuration name="CompareVersion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.smile.WrittenExamination.CompareVersion" />
       <module name="demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.smile.WrittenExamination.fanruan.*" />
+          <option name="PATTERN" value="com.smile.WrittenExamination.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -432,12 +213,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FanRuan_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.smile.WrittenExamination.fanruan.FanRuan_2" />
+    <configuration name="LeftRotateString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.smile.nowcoder.First.LeftRotateString" />
       <module name="demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.smile.WrittenExamination.fanruan.*" />
+          <option name="PATTERN" value="com.smile.nowcoder.First.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -445,12 +226,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FanRuan_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.smile.WrittenExamination.fanruan.FanRuan_3" />
+    <configuration name="Seven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.smile.nowcoder.second.Seven" />
       <module name="demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.smile.WrittenExamination.fanruan.*" />
+          <option name="PATTERN" value="com.smile.nowcoder.second.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -458,12 +239,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.smile.algorithm_review.BinaryTree_Recursive_BFS_DFS.MainClass" />
+    <configuration name="Ten" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.smile.nowcoder.second.Ten" />
       <module name="demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.smile.algorithm_review.BinaryTree_Recursive_BFS_DFS.*" />
+          <option name="PATTERN" value="com.smile.nowcoder.second.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -471,12 +252,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinimumPathSum_64" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.smile.DynamicProgramming.MinimumPathSum_64" />
+    <configuration name="Two" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.smile.nowcoder.second.Two" />
       <module name="demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.smile.DynamicProgramming.*" />
+          <option name="PATTERN" value="com.smile.nowcoder.second.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -486,13 +267,25 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FanRuan_3" />
-        <item itemvalue="Application.FanRuan_2" />
-        <item itemvalue="Application.FanRuan_1" />
-        <item itemvalue="Application.MinimumPathSum_64" />
-        <item itemvalue="Application.MainClass" />
+        <item itemvalue="Application.Ten" />
+        <item itemvalue="Application.Seven" />
+        <item itemvalue="Application.Two" />
+        <item itemvalue="Application.CompareVersion" />
+        <item itemvalue="Application.LeftRotateString" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -611,53 +404,69 @@
       <workItem from="1575542053919" duration="1288000" />
       <workItem from="1575616478330" duration="2762000" />
       <workItem from="1575620755006" duration="1474000" />
+      <workItem from="1575852334229" duration="3471000" />
+      <workItem from="1575975954461" duration="3206000" />
+      <workItem from="1576030806818" duration="13362000" />
+      <workItem from="1576065284076" duration="2397000" />
+      <workItem from="1576210138863" duration="15012000" />
+      <workItem from="1576303130715" duration="2710000" />
+      <workItem from="1576324068469" duration="4256000" />
+      <workItem from="1576387891600" duration="16261000" />
+      <workItem from="1576547017671" duration="2947000" />
+      <workItem from="1576564766704" duration="6330000" />
+      <workItem from="1576802768542" duration="6129000" />
+      <workItem from="1576824663050" duration="7588000" />
+      <workItem from="1576894885530" duration="3320000" />
+      <workItem from="1576911414873" duration="5254000" />
+      <workItem from="1577276061263" duration="483000" />
+      <workItem from="1584366738676" duration="9581000" />
     </task>
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="707822000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7310195" visible="true" weight="0.15138593" />
-      <window_info id="Structure" order="1" sideWeight="0.26898047" side_tool="true" visible="true" weight="0.15138593" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" sideWeight="0.49775112" side_tool="true" weight="0.24040511" />
-      <window_info id="Web" order="7" side_tool="true" />
-      <window_info id="BPMN Editor" order="8" weight="0.15618336" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49626866" weight="0.28091106" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49733475" weight="0.39370933" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5026652" side_tool="true" weight="0.2527115" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49946696" weight="0.17570499" />
-      <window_info anchor="bottom" id="Java Enterprise" order="11" />
-      <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info anchor="bottom" id="Version Control" order="13" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24946696" />
-      <window_info anchor="right" id="Maven" order="3" weight="0.32995737" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Database" order="6" weight="0.32995737" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
-      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32995737" />
-      <window_info anchor="right" id="BPMNPalette" order="10" weight="0.21695095" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="715" y="222" key="#xdebugger.evaluate" timestamp="1584369695187">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="715" y="222" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1584369695187" />
+    <state width="1877" height="185" key="GridCell.Tab.0.bottom" timestamp="1584377146341">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="185" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584377146341" />
+    <state width="1877" height="185" key="GridCell.Tab.0.center" timestamp="1584377146341">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="185" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584377146341" />
+    <state width="1877" height="185" key="GridCell.Tab.0.left" timestamp="1584377146341">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="185" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584377146341" />
+    <state width="1877" height="185" key="GridCell.Tab.0.right" timestamp="1584377146341">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="185" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584377146341" />
+    <state width="1877" height="185" key="GridCell.Tab.1.bottom" timestamp="1584377146229">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="185" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584377146229" />
+    <state width="1877" height="185" key="GridCell.Tab.1.center" timestamp="1584377146229">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="185" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584377146229" />
+    <state width="1877" height="185" key="GridCell.Tab.1.left" timestamp="1584377146229">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="185" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584377146229" />
+    <state width="1877" height="185" key="GridCell.Tab.1.right" timestamp="1584377146229">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="185" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584377146229" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1584368114159">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1584368114159" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -665,513 +474,533 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/search/BinarySearch.java</url>
           <line>6</line>
-          <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/ValidPalindrome.java</url>
           <line>35</line>
-          <properties />
           <option name="timeStamp" value="32" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/TwoNumBinaryCount.java</url>
           <line>38</line>
-          <properties />
           <option name="timeStamp" value="38" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/MinimumWindowSubstring.java</url>
           <line>25</line>
-          <properties />
           <option name="timeStamp" value="40" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/SortCharactersByFrequency_451.java</url>
           <line>83</line>
-          <properties />
           <option name="timeStamp" value="61" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/ThreeSum_15.java</url>
           <line>11</line>
-          <properties />
           <option name="timeStamp" value="71" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/KSum_18.java</url>
           <line>13</line>
-          <properties />
           <option name="timeStamp" value="78" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/GroupAnagrams_49.java</url>
           <line>34</line>
-          <properties />
           <option name="timeStamp" value="84" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/NumberOfBoomerangs_447.java</url>
           <line>31</line>
-          <properties />
           <option name="timeStamp" value="89" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/ContainsDuplicateII_219.java</url>
           <line>18</line>
-          <properties />
           <option name="timeStamp" value="93" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/ReverseLinkedListII_92.java</url>
           <line>71</line>
-          <properties />
           <option name="timeStamp" value="108" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/ReverseNodesInKGroup_25.java</url>
           <line>33</line>
-          <properties />
           <option name="timeStamp" value="116" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/ReverseNodesInKGroup_25.java</url>
           <line>64</line>
-          <properties />
           <option name="timeStamp" value="119" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/ReverseNodesInKGroup_25.java</url>
           <line>73</line>
-          <properties />
           <option name="timeStamp" value="120" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/ReverseNodesInKGroup_25.java</url>
           <line>84</line>
-          <properties />
           <option name="timeStamp" value="121" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/RotateList_61.java</url>
           <line>39</line>
-          <properties />
           <option name="timeStamp" value="128" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/RotateList_61.java</url>
           <line>34</line>
-          <properties />
           <option name="timeStamp" value="129" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/ValidParentheses_20.java</url>
           <line>16</line>
-          <properties />
           <option name="timeStamp" value="133" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/EvaluateReversePolishNotation_150.java</url>
           <line>36</line>
-          <properties />
           <option name="timeStamp" value="135" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/EvaluateReversePolishNotation_150.java</url>
           <line>14</line>
-          <properties />
           <option name="timeStamp" value="136" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/TopKFrequentElements_347.java</url>
           <line>27</line>
-          <properties />
           <option name="timeStamp" value="218" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/TopKFrequentWords_692.java</url>
           <line>25</line>
-          <properties />
           <option name="timeStamp" value="221" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/MergeKSortedLists_23.java</url>
           <line>18</line>
-          <properties />
           <option name="timeStamp" value="241" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/PathSumII_113.java</url>
           <line>46</line>
-          <properties />
           <option name="timeStamp" value="258" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/PathSumII_113.java</url>
           <line>16</line>
-          <properties />
           <option name="timeStamp" value="261" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/SumRootToLeafNumbers_129.java</url>
           <line>63</line>
-          <properties />
           <option name="timeStamp" value="265" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/SumRootToLeafNumbers_129.java</url>
           <line>53</line>
-          <properties />
           <option name="timeStamp" value="266" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/RemoveAllAdjacentDuplicatesInStringII_5206.java</url>
           <line>22</line>
-          <properties />
           <option name="temporary" value="true" />
           <option name="timeStamp" value="296" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/PathSumII_113.java</url>
           <line>33</line>
-          <properties />
           <option name="timeStamp" value="297" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/LetterCombinationsOfAPhoneNumber_17.java</url>
           <line>9</line>
-          <properties />
           <option name="timeStamp" value="319" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/RestoreIPAddresses_93.java</url>
           <line>11</line>
-          <properties />
           <option name="timeStamp" value="333" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/WrittenExamination/Main.java</url>
           <line>57</line>
-          <properties />
           <option name="timeStamp" value="347" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/QueensThatCanAttackTheKing_5223.java</url>
           <line>12</line>
-          <properties />
           <option name="timeStamp" value="363" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/CombinationSum_39.java</url>
           <line>12</line>
-          <properties />
           <option name="timeStamp" value="370" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/CombinationSumII_40.java</url>
           <line>12</line>
-          <properties />
           <option name="timeStamp" value="372" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/CombinationSumIII_216.java</url>
           <line>10</line>
-          <properties />
           <option name="timeStamp" value="375" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/BinaryWatch_401.java</url>
           <line>11</line>
-          <properties />
           <option name="timeStamp" value="379" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/SurroundedRegions_130.java</url>
           <line>33</line>
-          <properties />
           <option name="timeStamp" value="432" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/SurroundedRegions_x_130.java</url>
           <line>47</line>
-          <properties />
           <option name="timeStamp" value="433" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/PacificAtlanticWaterFlow_417.java</url>
           <line>17</line>
-          <properties />
           <option name="timeStamp" value="434" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/NQueens_51.java</url>
           <line>12</line>
-          <properties />
           <option name="timeStamp" value="464" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/Triangle_120.java</url>
           <line>33</line>
-          <properties />
           <option name="timeStamp" value="468" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/UniquePathsII_63.java</url>
           <line>27</line>
-          <properties />
           <option name="timeStamp" value="483" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/HouseRobberII_213.java</url>
           <line>19</line>
-          <properties />
           <option name="timeStamp" value="486" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/TargetSum_494.java</url>
           <line>29</line>
-          <properties />
           <option name="timeStamp" value="496" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/LongestIncreasingSubsequence_300.java</url>
           <line>52</line>
-          <properties />
           <option name="timeStamp" value="508" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/WrittenExamination/LRUCacheLinkedHashMap.java</url>
           <line>50</line>
-          <properties />
           <option name="timeStamp" value="512" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/WrittenExamination/MyThreadPool.java</url>
           <line>46</line>
-          <properties />
           <option name="timeStamp" value="513" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/AssignCookies_455.java</url>
           <line>20</line>
-          <properties />
           <option name="timeStamp" value="517" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/IsSubsequence_392.java</url>
           <line>67</line>
-          <properties />
           <option name="timeStamp" value="529" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/sort/Shell.java</url>
           <line>14</line>
-          <properties />
           <option name="timeStamp" value="534" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/../../Java/src/algorithm/sort/Shell.java</url>
           <line>34</line>
-          <properties />
           <option name="timeStamp" value="535" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/CollidingPointer/KthLargestElementInAnArray_215.java</url>
           <line>20</line>
-          <properties />
           <option name="timeStamp" value="537" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/CollidingPointer/TwoSumII_167.java</url>
           <line>14</line>
-          <properties />
           <option name="timeStamp" value="538" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/ListNodes/SortColors_75.java</url>
           <line>12</line>
-          <properties />
           <option name="timeStamp" value="542" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/ListNodes/RemoveDuplicatesFromSortedArray_26.java</url>
           <line>8</line>
-          <properties />
           <option name="timeStamp" value="546" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/ListNodes/FindAllAnagramsinAString_438.java</url>
           <line>64</line>
-          <properties />
           <option name="timeStamp" value="551" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/ListNodes/FindAllAnagramsinAString_438.java</url>
           <line>95</line>
-          <properties />
           <option name="timeStamp" value="552" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/ListNodes/FindAllAnagramsinAString_438.java</url>
           <line>14</line>
-          <properties />
           <option name="timeStamp" value="553" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/SlidingWindow/MinimumWindowSubstring_76.java</url>
           <line>21</line>
-          <properties />
           <option name="timeStamp" value="562" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/SlidingWindow/SubstringWithConcatenationOfAllWords_30.java</url>
           <line>13</line>
-          <properties />
           <option name="timeStamp" value="564" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/CollectionUsage/IntersectionOfTwoArrays.java</url>
           <line>10</line>
-          <properties />
           <option name="timeStamp" value="570" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/CollectionUsage/IntersectionOfTwoArraysII_350.java</url>
           <line>12</line>
-          <properties />
           <option name="timeStamp" value="574" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/CollectionUsage/IsomorphicStrings_205.java</url>
           <line>36</line>
-          <properties />
           <option name="timeStamp" value="577" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/CollectionUsage/TwoSum_1.java</url>
           <line>10</line>
-          <properties />
           <option name="timeStamp" value="581" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/CollectionUsage/ThreeSum_15.java</url>
           <line>9</line>
-          <properties />
           <option name="timeStamp" value="591" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/CollectionUsage/GroupAnagrams_49.java</url>
           <line>77</line>
-          <properties />
           <option name="timeStamp" value="593" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/ListNodes/AddTwoNumbers_2.java</url>
           <line>20</line>
-          <properties />
           <option name="timeStamp" value="596" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/ListNodes/RemoveDuplicatesFromSortedListII_82.java</url>
           <line>34</line>
-          <properties />
           <option name="timeStamp" value="599" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/ListNodes/MergeTwoSortedLists_21.java</url>
           <line>20</line>
-          <properties />
           <option name="timeStamp" value="601" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/ListNodes/SwapNodesInPairs_24.java</url>
           <line>38</line>
-          <properties />
           <option name="timeStamp" value="605" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/ListNodes/InsertionSortList_147.java</url>
           <line>46</line>
-          <properties />
           <option name="timeStamp" value="607" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BinaryTree_Recursive_BFS_DFS/BinaryTreeLevelOrderTraversal_102.java</url>
           <line>13</line>
-          <properties />
           <option name="timeStamp" value="613" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/WordLadderII_126.java</url>
           <line>12</line>
-          <properties />
           <option name="timeStamp" value="619" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/CollectionUsage/TopKFrequentElements_347.java</url>
           <line>11</line>
-          <properties />
           <option name="timeStamp" value="624" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/CollectionUsage/TopKFrequentWords_692.java</url>
           <line>10</line>
-          <properties />
           <option name="timeStamp" value="626" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/nowcoder/RebuildBinaryTree.java</url>
           <line>10</line>
-          <properties />
           <option name="timeStamp" value="627" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BackTrack/LetterCombinationsOfAPhoneNumber_17.java</url>
           <line>8</line>
-          <properties />
           <option name="timeStamp" value="632" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BinaryTree_Recursive_BFS_DFS/PalindromePartitioning_131.java</url>
           <line>11</line>
-          <properties />
           <option name="timeStamp" value="635" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BinaryTree_Recursive_BFS_DFS/Combinations_77.java</url>
           <line>13</line>
-          <properties />
           <option name="timeStamp" value="642" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BinaryTree_Recursive_BFS_DFS/SubsetsII_90.java</url>
           <line>11</line>
-          <properties />
           <option name="timeStamp" value="645" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BinaryTree_Recursive_BFS_DFS/BinaryWatch_401.java</url>
           <line>10</line>
-          <properties />
           <option name="timeStamp" value="646" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BinaryTree_Recursive_BFS_DFS/SurroundedRegions_130.java</url>
           <line>27</line>
-          <properties />
           <option name="timeStamp" value="653" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BackTrack/NQueensII_52.java</url>
           <line>7</line>
-          <properties />
           <option name="timeStamp" value="654" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BinaryTree_Recursive_BFS_DFS/MostFrequentSubtreeSum_508.java</url>
           <line>49</line>
-          <properties />
           <option name="timeStamp" value="665" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/DynamicProgramming/PerfectSquares_279.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="668" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/DynamicProgramming/BestTimeToBuyAdSellStock_121.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="669" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/Knapsack01.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="670" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/DynamicProgramming/Knapsack01.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="672" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/Knapsack01_x.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="676" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/DynamicProgramming/Knapsack01.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="679" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/DynamicProgramming/CombinationSumIV_377.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="683" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/smile/nowcoder/ChangeOrder.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="692" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/smile/nowcoder/FindKthToTail_13.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="693" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/smile/nowcoder/FindPath.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="696" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/smile/nowcoder/Convert.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="701" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/smile/nowcoder/Permutation.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="705" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/smile/nowcoder/Permutation.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="707" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/smile/nowcoder/GetLeastNumbers_Solution.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="710" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/smile/nowcoder/FindGreatestSumOfSubArray.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="712" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/smile/nowcoder/PrintMinNumber.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="719" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/smile/nowcoder/InversePairs.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="721" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/smile/nowcoder/GetNumberOfK.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="727" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/smile/nowcoder/FindNumsAppearOnce.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="731" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/smile/nowcoder/FindContinuousSequence.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="742" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/smile/nowcoder/LeftRotateString.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="743" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -1186,618 +1015,5 @@
         <watch expression="head" />
       </configuration>
     </watches-manager>
-  </component>
-  <component name="debuggerHistoryManager">
-    <expressions id="watch">
-      <expression>
-        <expression-string>map.get(s.charAt(i)+1)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>generateGcd(0,3)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>generateGcd(3,0)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>pattern.charAt(129)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>pattern.length()</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>pattern[129]</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-    </expressions>
-    <expressions id="setValue">
-      <expression>
-        <expression-string>&quot;abc&quot;</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-    </expressions>
-    <expressions id="evaluateExpression">
-      <expression>
-        <expression-string>list.get(lastParent)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>list.get(lastParent).left</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>list.get(2*lastParent+1)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>((ArrayList) list).size</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>Integer.MAX_VALUE</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>treeSet.remove(1)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>treeSet.remove(0)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>jsonObject1.getAsJsonArray()</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>jsonObject1.isJsonArray()</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-    </expressions>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/StackAndQueue/SimplifyPath_71.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="94">
-          <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/BinaryTreePreorderTraversal_144.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-540">
-          <caret line="12" column="36" lean-forward="true" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BinaryTree_Recursive_BFS_DFS/BinaryTreeLevelOrderTraversalII_107.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BinaryTree_Recursive_BFS_DFS/PerfectSquares_279.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#numSquares#0;class#PerfectSquares_279#0" />
-            <element signature="method#numSquares#1;class#PerfectSquares_279#0" />
-            <element signature="method#numSquares#1;class#PerfectSquares_279#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/WordLadder_127.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3132">
-          <caret line="125" column="13" lean-forward="true" selection-start-line="125" selection-start-column="13" selection-end-line="125" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/WordLadderII_126.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/CollectionUsage/TopKFrequentElements_347.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/CollectionUsage/TopKFrequentWords_692.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="599">
-          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/CollectionUsage/MergeKSortedLists_23.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/Recursive/MaximumDepthOfBinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" column="69" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="14" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-299">
-          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/FirstMissingPositive_41.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/sort/Insertion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/nowcoder/RebuildBinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="50" lean-forward="true" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/WrittenExamination/MyThreadPool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1492">
-          <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/WrittenExamination/ProducerConsumer_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="9" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/WrittenExamination/ProducerConsumer_3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="10" column="51" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/WrittenExamination/ProducerConsumer_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="23" column="35" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="23" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/WrittenExamination/ComputeCow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="891">
-          <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BinaryTree_Recursive_BFS_DFS/BinaryTreeLevelOrderTraversal_102.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="19" column="56" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BinaryTree_Recursive_BFS_DFS/MinimumDepthOfBinaryTree_111.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" column="41" lean-forward="true" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BinaryTree_Recursive_BFS_DFS/CountCompleteTreeNodes_222.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="20" column="32" lean-forward="true" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BinaryTree_Recursive_BFS_DFS/PathSum_112.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="5" selection-start-line="6" selection-start-column="43" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BinaryTree_Recursive_BFS_DFS/BinaryTreePreorderTraversal_144.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="14" column="55" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BinaryTree_Recursive_BFS_DFS/BinaryTreePostorderTraversal_145.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-297">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BinaryTree_Recursive_BFS_DFS/BinaryTreeInorderTraversal_94.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="28" column="19" lean-forward="true" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BackTrack/LetterCombinationsOfAPhoneNumber_17.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#194#195#0" expanded="true" />
-            <element signature="e#248#249#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BinaryTree_Recursive_BFS_DFS/PalindromePartitioning_131.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#906#907#0" expanded="true" />
-            <element signature="e#969#970#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BinaryTree_Recursive_BFS_DFS/PermutationsII_47.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BinaryTree_Recursive_BFS_DFS/Permutations_46.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="29" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="10" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BinaryTree_Recursive_BFS_DFS/Combinations_77.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="34" column="5" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="34" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BinaryTree_Recursive_BFS_DFS/WordLadder_127.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/ListNodes/SortList_148.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1385">
-          <caret line="52" column="26" lean-forward="true" selection-start-line="52" selection-start-column="26" selection-end-line="52" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/sort/Quick.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="59" selection-start-line="59" selection-end-line="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm/LongestSubstringWithoutRepeatingCharacters_3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="73" column="5" lean-forward="true" selection-start-line="73" selection-start-column="5" selection-end-line="73" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BinaryTree_Recursive_BFS_DFS/SubsetsII_90.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="36" column="35" lean-forward="true" selection-start-line="36" selection-start-column="35" selection-end-line="36" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BinaryTree_Recursive_BFS_DFS/BinaryWatch_401.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="27" column="14" lean-forward="true" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BinaryTree_Recursive_BFS_DFS/WordSearch_79.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="16" column="54" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BinaryTree_Recursive_BFS_DFS/SurroundedRegions_130.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BackTrack/NQueens_51.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-19">
-          <caret line="22" column="4" lean-forward="true" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BinaryTree_Recursive_BFS_DFS/MostFrequentSubtreeSum_508.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-357">
-          <caret line="50" column="5" lean-forward="true" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#3965#3966#0" expanded="true" />
-            <element signature="e#4035#4036#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/DynamicProgramming/ClimbingStairs_70.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="19" column="23" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="19" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/BackTrack/NQueensII_52.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="677">
-          <caret line="27" column="40" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/SlidingWindow/LongestSubstringWithoutRepeatingCharacters_3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="596">
-          <caret line="27" column="5" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="27" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/WrittenExamination/qianxin/QiAnXin_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/DynamicProgramming/Triangle_120.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/DynamicProgramming/MinimumPathSum_64.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="39" column="8" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="77" />
-          <folding>
-            <element signature="e#877#878#0" expanded="true" />
-            <element signature="e#918#919#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/sort/Heap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="32" column="5" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="32" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/WrittenExamination/fanruan/FanRuan_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="6" selection-start-line="4" selection-start-column="4" selection-end-line="34" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/WrittenExamination/fanruan/FanRuan_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="35" column="9" lean-forward="true" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/WrittenExamination/fanruan/FanRuan_3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-262">
-          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <last-edited>demo:war</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.5" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>Web</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>demo</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>Maven: commons-lang:commons-lang:2.6</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
