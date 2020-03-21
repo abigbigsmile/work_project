@@ -1,6 +1,6 @@
 package com.smile.algorithm_review.ListNodes;
 
-import static com.smile.sort.Utils.swap;
+import static com.smile.sort.standard.Utils.swap;
 
 /**
  * 数组问题

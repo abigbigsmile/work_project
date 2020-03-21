@@ -2,67 +2,78 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="572a430e-a2c0-4240-8d4d-7b83ae7b5639" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/WrittenExamination/CompareVersion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/WrittenExamination/RuanTongBei/ChangeBottle_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/DynamicProgramming/BestTimeToBuyAdSellStock_121.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/DynamicProgramming/CombinationSumIV_377.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/DynamicProgramming/DecodeWays_91.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/DynamicProgramming/Knapsack01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/DynamicProgramming/Knapsack01_x.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/DynamicProgramming/LongestCommonSubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/DynamicProgramming/OnesAndZeroes_474.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/DynamicProgramming/PerfectSquares_279.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/DynamicProgramming/WiggleSubsequence_376.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/DynamicProgramming/WordBreak_139.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/ChangeOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/Convert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/Exponentiation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/FindContinuousSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/FindGreatestSumOfSubArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/FindKthToTail_13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/FindNumbersWithSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/FindNumsAppearOnce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/FindPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/FirstNotRepeatingChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/GetLeastNumbers_Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/GetNumberOfK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/GetUglyNumber_Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/InversePairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/IsPopOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/LeftRotateString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/Permutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/PrintMinNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/VerifySquenceOfBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/countOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/Eight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/Eleven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/Five.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/Four.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/Nine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/One.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/Seven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/Six.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/Ten.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/Three.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/Two.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/test/TestString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/Eightteen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/Fifthteen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/Fifthty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/FifthtyEight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/FifthtyFive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/FifthtyNine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/FifthtyOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/FifthtySeven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/FifthtySix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/FifthtyThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/FifthtyTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/Forty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/FortyEight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/FortyFive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/FortyFour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/FortyNine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/FortyOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/FortySeven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/FortySix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/FortyThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/FortyTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/Fourteen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/Nineteen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/RandomListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/Seventeen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/Sixteen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/Sixty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/SixtyFive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/SixtyFour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/SixtyOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/SixtySix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/SixtyThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/SixtyTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/Thirthteen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/Thirty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/ThirtyEight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/ThirtyFive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/ThirtyFour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/ThirtyNine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/ThirtySeven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/ThirtySix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/ThirtyThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/ThirtyTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/TirtyOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/TreeLinkNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/Twelve.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/Twenty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/TwentyEight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/TwentyFive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/TwentyFour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/TwentyNine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/TwentyOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/TwentySeven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/TwentySix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/TwentyThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/TwentyTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/sort/pratice1/Bubble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/sort/pratice1/Insertion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smile/sort/pratice1/Selection.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/smile/DynamicProgramming/ClimbingStairs_70.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/DynamicProgramming/ClimbingStairs_70.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/smile/DynamicProgramming/MinimumPathSum_64.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/DynamicProgramming/MinimumPathSum_64.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/smile/DynamicProgramming/Triangle_120.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/DynamicProgramming/Triangle_120.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/Knapsack01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/Knapsack01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/Knapsack01_x.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm/Knapsack01_x.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/CollectionUsage/SortCharactersByFrequency_451.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/CollectionUsage/SortCharactersByFrequency_451.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/demo.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/demo.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/DynamicProgramming/ClimbingStairs_70.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/DynamicProgramming/MinimumPathSum_64.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/DynamicProgramming/Triangle_120.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/algorithm/Knapsack01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/smile/algorithm/Knapsack01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/algorithm/Knapsack01_x.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/smile/algorithm/Knapsack01_x.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/algorithm_review/CollectionUsage/SortCharactersByFrequency_451.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/smile/algorithm_review/CollectionUsage/SortCharactersByFrequency_451.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/ListNodes/SortColors_75.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smile/algorithm_review/ListNodes/SortColors_75.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/smile/sort/Bubble.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smile/sort/standard/Bubble.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/smile/sort/Count.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smile/sort/standard/Count.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/smile/sort/Heap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smile/sort/standard/Heap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/smile/sort/Insertion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smile/sort/standard/Insertion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/smile/sort/Merge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smile/sort/standard/Merge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/smile/sort/Quick.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smile/sort/standard/Quick.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/smile/sort/Selection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smile/sort/standard/Selection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/smile/sort/Shell.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smile/sort/standard/Shell.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/smile/sort/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smile/sort/standard/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/algorithm_review/ListNodes/SortColors_75.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/smile/algorithm_review/ListNodes/SortColors_75.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/nowcoder/second/Ten.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/smile/nowcoder/second/Ten.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../microservice-demo-2/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../microservice-demo-2/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../microservice-demo-2/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../microservice-demo-2/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../microservice-demo-2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../microservice-demo-2/.idea/misc.xml" afterDir="false" />
@@ -163,11 +174,6 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="953" />
-    <option name="width" value="974" />
-    <option name="height" value="1047" />
-  </component>
   <component name="ProjectId" id="1ZDHR7KNtn7BpdJbQL7utrWPEM3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -199,35 +205,9 @@
       <recent name="com.smile.algorithm_review" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ten">
-    <configuration name="CompareVersion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.smile.WrittenExamination.CompareVersion" />
-      <module name="demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.smile.WrittenExamination.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LeftRotateString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.smile.nowcoder.First.LeftRotateString" />
-      <module name="demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.smile.nowcoder.First.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Seven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.smile.nowcoder.second.Seven" />
+  <component name="RunManager" selected="Application.SixtySix">
+    <configuration name="FifthtyFive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.smile.nowcoder.second.FifthtyFive" />
       <module name="demo" />
       <extension name="coverage">
         <pattern>
@@ -239,8 +219,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ten" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.smile.nowcoder.second.Ten" />
+    <configuration name="SixtyFive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.smile.nowcoder.second.SixtyFive" />
       <module name="demo" />
       <extension name="coverage">
         <pattern>
@@ -252,8 +232,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Two" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.smile.nowcoder.second.Two" />
+    <configuration name="SixtyFour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.smile.nowcoder.second.SixtyFour" />
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.smile.nowcoder.second.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SixtySix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.smile.nowcoder.second.SixtySix" />
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.smile.nowcoder.second.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SixtyTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.smile.nowcoder.second.SixtyTwo" />
       <module name="demo" />
       <extension name="coverage">
         <pattern>
@@ -267,11 +273,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ten" />
-        <item itemvalue="Application.Seven" />
-        <item itemvalue="Application.Two" />
-        <item itemvalue="Application.CompareVersion" />
-        <item itemvalue="Application.LeftRotateString" />
+        <item itemvalue="Application.SixtySix" />
+        <item itemvalue="Application.SixtyFive" />
+        <item itemvalue="Application.SixtyFour" />
+        <item itemvalue="Application.SixtyTwo" />
+        <item itemvalue="Application.FifthtyFive" />
       </list>
     </recent_temporary>
   </component>
@@ -419,7 +425,22 @@
       <workItem from="1576894885530" duration="3320000" />
       <workItem from="1576911414873" duration="5254000" />
       <workItem from="1577276061263" duration="483000" />
-      <workItem from="1584366738676" duration="9581000" />
+      <workItem from="1584366738676" duration="9810000" />
+      <workItem from="1584411025042" duration="3573000" />
+      <workItem from="1584457937720" duration="3510000" />
+      <workItem from="1584465613669" duration="290000" />
+      <workItem from="1584499565785" duration="2563000" />
+      <workItem from="1584513098143" duration="6674000" />
+      <workItem from="1584529385243" duration="2007000" />
+      <workItem from="1584538224935" duration="4980000" />
+      <workItem from="1584588388537" duration="9797000" />
+      <workItem from="1584612385236" duration="2402000" />
+      <workItem from="1584629754612" duration="5502000" />
+      <workItem from="1584683487415" duration="2674000" />
+      <workItem from="1584696442022" duration="5154000" />
+      <workItem from="1584717433961" duration="5309000" />
+      <workItem from="1584769358813" duration="5353000" />
+      <workItem from="1584802333785" duration="8168000" />
     </task>
     <servers />
   </component>
@@ -427,46 +448,50 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="715" y="222" key="#xdebugger.evaluate" timestamp="1584369695187">
+    <state x="715" y="222" key="#xdebugger.evaluate" timestamp="1584635974168">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="715" y="222" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1584369695187" />
-    <state width="1877" height="185" key="GridCell.Tab.0.bottom" timestamp="1584377146341">
+    <state x="715" y="222" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1584635974168" />
+    <state width="1877" height="232" key="GridCell.Tab.0.bottom" timestamp="1584812307482">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="185" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584377146341" />
-    <state width="1877" height="185" key="GridCell.Tab.0.center" timestamp="1584377146341">
+    <state width="1877" height="232" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584812307482" />
+    <state width="1877" height="232" key="GridCell.Tab.0.center" timestamp="1584812307482">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="185" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584377146341" />
-    <state width="1877" height="185" key="GridCell.Tab.0.left" timestamp="1584377146341">
+    <state width="1877" height="232" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584812307482" />
+    <state width="1877" height="232" key="GridCell.Tab.0.left" timestamp="1584812307482">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="185" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584377146341" />
-    <state width="1877" height="185" key="GridCell.Tab.0.right" timestamp="1584377146341">
+    <state width="1877" height="232" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584812307482" />
+    <state width="1877" height="232" key="GridCell.Tab.0.right" timestamp="1584812307482">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="185" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584377146341" />
-    <state width="1877" height="185" key="GridCell.Tab.1.bottom" timestamp="1584377146229">
+    <state width="1877" height="232" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584812307482" />
+    <state width="1877" height="263" key="GridCell.Tab.1.bottom" timestamp="1584812305154">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="185" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584377146229" />
-    <state width="1877" height="185" key="GridCell.Tab.1.center" timestamp="1584377146229">
+    <state width="1877" height="263" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584812305154" />
+    <state width="1877" height="263" key="GridCell.Tab.1.center" timestamp="1584812305154">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="185" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584377146229" />
-    <state width="1877" height="185" key="GridCell.Tab.1.left" timestamp="1584377146229">
+    <state width="1877" height="263" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584812305154" />
+    <state width="1877" height="263" key="GridCell.Tab.1.left" timestamp="1584812305154">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="185" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584377146229" />
-    <state width="1877" height="185" key="GridCell.Tab.1.right" timestamp="1584377146229">
+    <state width="1877" height="263" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584812305154" />
+    <state width="1877" height="263" key="GridCell.Tab.1.right" timestamp="1584812305154">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="185" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584377146229" />
+    <state width="1877" height="263" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584812305154" />
     <state x="440" y="94" key="SettingsEditor" timestamp="1584368114159">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1584368114159" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1584806177532">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1584806177532" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -723,7 +748,7 @@
           <option name="timeStamp" value="529" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/smile/sort/Shell.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/smile/sort/standard/Shell.java</url>
           <line>14</line>
           <option name="timeStamp" value="534" />
         </line-breakpoint>
@@ -853,7 +878,7 @@
           <option name="timeStamp" value="626" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/smile/nowcoder/RebuildBinaryTree.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/smile/nowcoder/First/RebuildBinaryTree.java</url>
           <line>10</line>
           <option name="timeStamp" value="627" />
         </line-breakpoint>
@@ -933,87 +958,96 @@
           <option name="timeStamp" value="683" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/smile/nowcoder/ChangeOrder.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/smile/nowcoder/First/ChangeOrder.java</url>
           <line>26</line>
           <option name="timeStamp" value="692" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/smile/nowcoder/FindKthToTail_13.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/smile/nowcoder/First/FindKthToTail_13.java</url>
           <line>15</line>
           <option name="timeStamp" value="693" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/smile/nowcoder/FindPath.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/smile/nowcoder/First/FindPath.java</url>
           <line>12</line>
           <option name="timeStamp" value="696" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/smile/nowcoder/Convert.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/smile/nowcoder/First/Convert.java</url>
           <line>14</line>
           <option name="timeStamp" value="701" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/smile/nowcoder/Permutation.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/smile/nowcoder/First/Permutation.java</url>
           <line>10</line>
           <option name="timeStamp" value="705" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/smile/nowcoder/Permutation.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/smile/nowcoder/First/Permutation.java</url>
           <line>50</line>
           <option name="timeStamp" value="707" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/smile/nowcoder/GetLeastNumbers_Solution.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/smile/nowcoder/First/GetLeastNumbers_Solution.java</url>
           <line>55</line>
           <option name="timeStamp" value="710" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/smile/nowcoder/FindGreatestSumOfSubArray.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/smile/nowcoder/First/FindGreatestSumOfSubArray.java</url>
           <line>19</line>
           <option name="timeStamp" value="712" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/smile/nowcoder/PrintMinNumber.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/smile/nowcoder/First/PrintMinNumber.java</url>
           <line>34</line>
           <option name="timeStamp" value="719" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/smile/nowcoder/InversePairs.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/smile/nowcoder/First/InversePairs.java</url>
           <line>50</line>
           <option name="timeStamp" value="721" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/smile/nowcoder/GetNumberOfK.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/smile/nowcoder/First/GetNumberOfK.java</url>
           <line>19</line>
           <option name="timeStamp" value="727" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/smile/nowcoder/FindNumsAppearOnce.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/smile/nowcoder/First/FindNumsAppearOnce.java</url>
           <line>30</line>
           <option name="timeStamp" value="731" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/smile/nowcoder/FindContinuousSequence.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/smile/nowcoder/First/FindContinuousSequence.java</url>
           <line>9</line>
           <option name="timeStamp" value="742" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/smile/nowcoder/LeftRotateString.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/smile/nowcoder/First/LeftRotateString.java</url>
           <line>34</line>
           <option name="timeStamp" value="743" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/TirtyOne.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="745" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/ThirtyFive.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="753" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/Forty.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="757" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/smile/nowcoder/second/FortyNine.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="760" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="pattern.length()" language="JAVA" />
-        <watch expression="pattern.charAt(129)" language="JAVA" />
-        <watch expression="map" />
-        <watch expression="generateGcd(3,0)" language="JAVA" />
-        <watch expression="generateGcd(0,3)" language="JAVA" />
-        <watch expression="map.get(s.charAt(i)+1)" language="JAVA" />
-        <watch expression="head" />
-      </configuration>
-    </watches-manager>
   </component>
 </project>
